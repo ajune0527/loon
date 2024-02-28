@@ -29,7 +29,11 @@
               </v-btn>
             </v-col>
             <v-col>
-              <span>{{ repos[repoId].updated_at }}</span>
+              <span>{{ (new Date(repos[repoId].updated_at))?.toLocaleDateString('zh-CN', {
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit'
+              }) }}</span>
             </v-col>
             <v-spacer/>
           </v-row>
