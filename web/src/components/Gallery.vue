@@ -5,11 +5,12 @@
       <v-expansion-panel v-for="repoId in Object.keys(repos)
         .sort((a, b) => repos[a].user.localeCompare(repos[b].user))
         .filter(repoId => filteredPlugins[repoId].length > 0)" :key="repoId">
-        <v-expansion-panel-header>
+        <v-expansion-panel-header style="padding-left: 5px">
           <v-row align="center" justify="start" no-gutters>
-            <v-col>
+            <v-col :cols="1">
               <v-avatar
                   size="35px"
+                  max-width="35px"
                   class="elevation-3"
               >
                 <img
@@ -18,7 +19,7 @@
                 >
               </v-avatar>
             </v-col>
-            <v-col>
+            <v-col :cols="7">
               <v-btn
                   :href="repos[repoId].repo_url"
                   target="_blank"
@@ -29,11 +30,13 @@
               </v-btn>
             </v-col>
             <v-col>
-              <span>{{ (new Date(repos[repoId].updated_at))?.toLocaleDateString('zh-CN', {
-                year: 'numeric',
-                month: '2-digit',
-                day: '2-digit'
-              }) }}</span>
+              <span>{{
+                  (new Date(repos[repoId].updated_at))?.toLocaleDateString('zh-CN', {
+                    year: 'numeric',
+                    month: '2-digit',
+                    day: '2-digit'
+                  })
+                }}</span>
             </v-col>
             <v-spacer/>
           </v-row>
