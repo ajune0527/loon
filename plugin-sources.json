@@ -1,0 +1,151 @@
+[
+  {
+    "user": "ajune0527",
+    "repo": "vpn_tool",
+    "branch": "master",
+    "paths": [
+      "Tool/Loon/Plugin"
+    ]
+  },
+  {
+    "user": "Semporia",
+    "repo": "TikTok-Unlock",
+    "branch": "master",
+    "paths": [
+      "Loon"
+    ]
+  },
+  {
+    "user": "chavyleung",
+    "repo": "scripts",
+    "branch": "master"
+  },
+  {
+    "user": "Peng-YM",
+    "repo": "Sub-Store",
+    "branch": "master"
+  },
+  {
+    "user": "Peng-YM",
+    "repo": "QuanX",
+    "branch": "master"
+  },
+  {
+    "user": "VirgilClyne",
+    "repo": "iRingo",
+    "branch": "main",
+    "paths": [
+      "plugin"
+    ]
+  },
+  {
+    "user": "VirgilClyne",
+    "repo": "GetSomeFries",
+    "branch": "main",
+    "paths": [
+      "plugin"
+    ]
+  },
+  {
+    "user": "VirgilClyne",
+    "repo": "Cloudflare",
+    "branch": "main",
+    "paths": [
+      "modules"
+    ]
+  },
+  {
+    "user": "DualSubs",
+    "repo": "YouTube",
+    "branch": "main",
+    "paths": [
+      "modules"
+    ]
+  },
+  {
+    "user": "BiliUniverse",
+    "repo": "Enhanced",
+    "branch": "main",
+    "paths": [
+      "modules"
+    ]
+  },
+  {
+    "user": "BiliUniverse",
+    "repo": "Global",
+    "branch": "main",
+    "paths": [
+      "modules"
+    ]
+  },
+  {
+    "user": "BiliUniverse",
+    "repo": "ADBlock",
+    "branch": "main",
+    "paths": [
+      "modules"
+    ]
+  },
+  {
+    "user": "blackmatrix7",
+    "repo": "ios_rule_script",
+    "branch": "master",
+    "paths": [
+      "rewrite/Loon"
+    ]
+  },
+  {
+    "user": "Tartarus2014",
+    "repo": "Loon-Script",
+    "branch": "master"
+  },
+  {
+    "user": "NobyDa",
+    "repo": "Script",
+    "branch": "master"
+  },
+  {
+    "user": "app2smile",
+    "repo": "rules",
+    "branch": "master"
+  },
+  {
+    "user": "zqzess",
+    "repo": "rule_for_quantumultX",
+    "branch": "master"
+  },
+  {
+    "user": "GeQ1an",
+    "repo": "Rules",
+    "branch": "master",
+    "paths": [
+      "Loon"
+    ]
+  },
+  {
+    "user": "deezertidal",
+    "repo": "private",
+    "branch": "master",
+    "paths": [
+      "plugallery"
+    ]
+  },
+  {
+    "user": "I-am-R-E",
+    "repo": "Functional-Store-Hub",
+    "branch": "Master"
+  },
+  {
+    "user": "chengkongyiban",
+    "repo": "Loon",
+    "branch": "main",
+    "paths": [
+      "Loon-Gallery"
+    ]
+  },
+  {
+    "user": "Guding88",
+    "repo": "Script",
+    "branch": "main"
+  }
+]
