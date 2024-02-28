@@ -10,4 +10,4 @@ hostname=xn--ck8h.com
 
 [Script]
 
-http-request https?:\/\/xn--ck8h\.com script-path=https://raw.githubusercontent.com/Peng-YM/Loon-Gallery/master/backend/gallery.js, requires-body=true, timeout=120, tag=Loon-Gallery
+http-request https?:\/\/xn--ck8h\.com script-path=https://raw.githubusercontent.com/ajune0527/loon/master/backend/gallery.js, requires-body=true, timeout=120, tag=Loon-Gallery
