@@ -43,13 +43,15 @@
         </v-expansion-panel-header>
         <v-expansion-panel-content>
           <v-list dense nav class="ma-n4">
-            <v-list-item v-for="(plugin, idx) in filteredPlugins[repoId]" :key="idx" @click="open(plugin.url)">
+            <v-list-item v-for="(plugin, idx) in filteredPlugins[repoId]" :key="idx">
               <v-list-item-avatar size="35px" rounded>
                 <v-icon v-if="plugin.icon === undefined">fa-question</v-icon>
                 <v-img :src="plugin.icon" v-else/>
               </v-list-item-avatar>
               <v-list-item-content>
-                <v-list-item-title v-text="plugin.name"/>
+                <v-list-item-title>
+                  <a :href="plugin.url">{{ plugin.name }}</a>
+                </v-list-item-title>
                 <v-list-item-subtitle v-text="plugin.description"/>
                 <v-list-item-subtitle>
                   <a :href="plugin.homepage">{{ plugin.homepage }}</a>
