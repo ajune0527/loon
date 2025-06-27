@@ -1,4 +1,28 @@
 {
+  "Semporia-TikTok-Unlock-master": {
+    "user": "Semporia",
+    "repo": "TikTok-Unlock",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/29939899?v=4",
+    "owner_url": "https://github.com/Semporia",
+    "repo_description": "TikTok 無需拔卡解鎖最新支援  iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！",
+    "repo_url": "https://github.com/Semporia/TikTok-Unlock",
+    "updated_at": "2025-06-26T18:52:11Z",
+    "stargazers_count": 11347,
+    "forks_count": 829
+  },
+  "app2smile-rules-master": {
+    "user": "app2smile",
+    "repo": "rules",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
+    "owner_url": "https://github.com/app2smile",
+    "repo_description": "iOS App去广告",
+    "repo_url": "https://github.com/app2smile/rules",
+    "updated_at": "2025-06-26T12:51:52Z",
+    "stargazers_count": 3716,
+    "forks_count": 232
+  },
   "VirgilClyne-iRingo-main": {
     "user": "VirgilClyne",
     "repo": "iRingo",
@@ -7,21 +31,33 @@
     "owner_url": "https://github.com/VirgilClyne",
     "repo_description": "解锁完整的 Apple功能和集成服务",
     "repo_url": "https://github.com/VirgilClyne/iRingo",
-    "updated_at": "2025-06-25T15:21:39Z",
-    "stargazers_count": 10034,
-    "forks_count": 370
+    "updated_at": "2025-06-26T12:34:15Z",
+    "stargazers_count": 10036,
+    "forks_count": 371
   },
-  "Tartarus2014-Loon-Script-master": {
-    "user": "Tartarus2014",
-    "repo": "Loon-Script",
+  "GeQ1an-Rules-master": {
+    "user": "GeQ1an",
+    "repo": "Rules",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
-    "owner_url": "https://github.com/Tartarus2014",
-    "repo_description": "Loon脚本收集",
-    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
-    "updated_at": "2025-06-25T15:01:19Z",
-    "stargazers_count": 1365,
-    "forks_count": 243
+    "avatar_url": "https://avatars.githubusercontent.com/u/38187467?v=4",
+    "owner_url": "https://github.com/GeQ1an",
+    "repo_description": "Stick Rules -- Quantumult X / Loon / Clash Rules \\ Quantumult back to CN Rules",
+    "repo_url": "https://github.com/GeQ1an/Rules",
+    "updated_at": "2025-06-26T17:53:08Z",
+    "stargazers_count": 1023,
+    "forks_count": 224
+  },
+  "blackmatrix7-ios_rule_script-master": {
+    "user": "blackmatrix7",
+    "repo": "ios_rule_script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/27717518?v=4",
+    "owner_url": "https://github.com/blackmatrix7",
+    "repo_description": "分流规则、重写写规则及脚本。",
+    "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
+    "updated_at": "2025-06-27T00:51:02Z",
+    "stargazers_count": 21530,
+    "forks_count": 3510
   },
   "ajune0527-vpn_tool-master": {
     "user": "ajune0527",
@@ -35,6 +71,30 @@
     "stargazers_count": 1,
     "forks_count": 0
   },
+  "Tartarus2014-Loon-Script-master": {
+    "user": "Tartarus2014",
+    "repo": "Loon-Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
+    "owner_url": "https://github.com/Tartarus2014",
+    "repo_description": "Loon脚本收集",
+    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
+    "updated_at": "2025-06-25T15:01:19Z",
+    "stargazers_count": 1365,
+    "forks_count": 243
+  },
+  "NobyDa-Script-master": {
+    "user": "NobyDa",
+    "repo": "Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
+    "owner_url": "https://github.com/NobyDa",
+    "repo_description": "This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)",
+    "repo_url": "https://github.com/NobyDa/Script",
+    "updated_at": "2025-06-25T15:01:09Z",
+    "stargazers_count": 8321,
+    "forks_count": 3124
+  },
   "Peng-YM-QuanX-master": {
     "user": "Peng-YM",
     "repo": "QuanX",
@@ -47,17 +107,17 @@
     "stargazers_count": 1653,
     "forks_count": 174
   },
-  "Semporia-TikTok-Unlock-master": {
-    "user": "Semporia",
-    "repo": "TikTok-Unlock",
+  "zqzess-rule_for_quantumultX-master": {
+    "user": "zqzess",
+    "repo": "rule_for_quantumultX",
     "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/29939899?v=4",
-    "owner_url": "https://github.com/Semporia",
-    "repo_description": "TikTok 無需拔卡解鎖最新支援  iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！",
-    "repo_url": "https://github.com/Semporia/TikTok-Unlock",
-    "updated_at": "2025-06-25T07:07:27Z",
-    "stargazers_count": 11342,
-    "forks_count": 829
+    "avatar_url": "https://avatars.githubusercontent.com/u/54464797?v=4",
+    "owner_url": "https://github.com/zqzess",
+    "repo_description": "自用Surge等代理app规则与配置，自用js脚本，爬虫每周自动更新规则",
+    "repo_url": "https://github.com/zqzess/rule_for_quantumultX",
+    "updated_at": "2025-06-26T08:07:47Z",
+    "stargazers_count": 1923,
+    "forks_count": 138
   },
   "I-am-R-E-Functional-Store-Hub-Master": {
     "user": "I-am-R-E",
@@ -71,6 +131,18 @@
     "stargazers_count": 1003,
     "forks_count": 69
   },
+  "DualSubs-YouTube-main": {
+    "user": "DualSubs",
+    "repo": "YouTube",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/100578089?v=4",
+    "owner_url": "https://github.com/DualSubs",
+    "repo_description": "YouTube增强及双语字幕解决方案",
+    "repo_url": "https://github.com/DualSubs/YouTube",
+    "updated_at": "2025-06-25T23:49:43Z",
+    "stargazers_count": 493,
+    "forks_count": 17
+  },
   "VirgilClyne-GetSomeFries-main": {
     "user": "VirgilClyne",
     "repo": "GetSomeFries",
@@ -83,65 +155,17 @@
     "stargazers_count": 1371,
     "forks_count": 100
   },
-  "blackmatrix7-ios_rule_script-master": {
-    "user": "blackmatrix7",
-    "repo": "ios_rule_script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/27717518?v=4",
-    "owner_url": "https://github.com/blackmatrix7",
-    "repo_description": "分流规则、重写写规则及脚本。",
-    "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
-    "updated_at": "2025-06-25T18:13:51Z",
-    "stargazers_count": 21522,
-    "forks_count": 3506
-  },
-  "BiliUniverse-ADBlock-main": {
-    "user": "BiliUniverse",
-    "repo": "ADBlock",
+  "Guding88-Script-main": {
+    "user": "Guding88",
+    "repo": "Script",
     "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/129515498?v=4",
-    "owner_url": "https://github.com/BiliUniverse",
-    "repo_description": "自定义去除 app 广告",
-    "repo_url": "https://github.com/BiliUniverse/ADBlock",
-    "updated_at": "2025-06-23T04:34:43Z",
-    "stargazers_count": 88,
-    "forks_count": 6
-  },
-  "zqzess-rule_for_quantumultX-master": {
-    "user": "zqzess",
-    "repo": "rule_for_quantumultX",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/54464797?v=4",
-    "owner_url": "https://github.com/zqzess",
-    "repo_description": "自用Surge等代理app规则与配置，自用js脚本，爬虫每周自动更新规则",
-    "repo_url": "https://github.com/zqzess/rule_for_quantumultX",
-    "updated_at": "2025-06-25T03:24:37Z",
-    "stargazers_count": 1922,
-    "forks_count": 138
-  },
-  "BiliUniverse-Global-main": {
-    "user": "BiliUniverse",
-    "repo": "Global",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/129515498?v=4",
-    "owner_url": "https://github.com/BiliUniverse",
-    "repo_description": "自动识别番剧影视地区限制，自动切换线路至对应地区，快捷返回各区域搜索结果",
-    "repo_url": "https://github.com/BiliUniverse/Global",
-    "updated_at": "2025-06-25T15:29:05Z",
-    "stargazers_count": 29,
-    "forks_count": 1
-  },
-  "app2smile-rules-master": {
-    "user": "app2smile",
-    "repo": "rules",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
-    "owner_url": "https://github.com/app2smile",
-    "repo_description": "iOS App去广告",
-    "repo_url": "https://github.com/app2smile/rules",
-    "updated_at": "2025-06-25T08:59:08Z",
-    "stargazers_count": 3715,
-    "forks_count": 232
+    "avatar_url": "https://avatars.githubusercontent.com/u/132737252?v=4",
+    "owner_url": "https://github.com/Guding88",
+    "repo_description": null,
+    "repo_url": "https://github.com/Guding88/Script",
+    "updated_at": "2025-06-01T09:29:16Z",
+    "stargazers_count": 249,
+    "forks_count": 37
   },
   "chavyleung-scripts-master": {
     "user": "chavyleung",
@@ -155,66 +179,6 @@
     "stargazers_count": 5363,
     "forks_count": 1145
   },
-  "BiliUniverse-Enhanced-main": {
-    "user": "BiliUniverse",
-    "repo": "Enhanced",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/129515498?v=4",
-    "owner_url": "https://github.com/BiliUniverse",
-    "repo_description": "全面自定义哔哩哔哩 App 主界面，修改首页和底栏元素的显示顺序和触发功能",
-    "repo_url": "https://github.com/BiliUniverse/Enhanced",
-    "updated_at": "2025-06-25T15:29:10Z",
-    "stargazers_count": 25,
-    "forks_count": 2
-  },
-  "Guding88-Script-main": {
-    "user": "Guding88",
-    "repo": "Script",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/132737252?v=4",
-    "owner_url": "https://github.com/Guding88",
-    "repo_description": null,
-    "repo_url": "https://github.com/Guding88/Script",
-    "updated_at": "2025-06-01T09:29:16Z",
-    "stargazers_count": 249,
-    "forks_count": 38
-  },
-  "GeQ1an-Rules-master": {
-    "user": "GeQ1an",
-    "repo": "Rules",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/38187467?v=4",
-    "owner_url": "https://github.com/GeQ1an",
-    "repo_description": "Stick Rules -- Quantumult X / Loon / Clash Rules \\ Quantumult back to CN Rules",
-    "repo_url": "https://github.com/GeQ1an/Rules",
-    "updated_at": "2025-06-25T01:30:52Z",
-    "stargazers_count": 1022,
-    "forks_count": 224
-  },
-  "deezertidal-private-master": {
-    "user": "deezertidal",
-    "repo": "private",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/539868?v=4",
-    "owner_url": "https://github.com/deezertidal",
-    "repo_description": "Loon配置 脚本 插件 plugin 规则 分流 破解 解锁",
-    "repo_url": "https://github.com/deezertidal/private",
-    "updated_at": "2025-06-25T22:41:05Z",
-    "stargazers_count": 700,
-    "forks_count": 68
-  },
-  "NobyDa-Script-master": {
-    "user": "NobyDa",
-    "repo": "Script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/53217160?v=4",
-    "owner_url": "https://github.com/NobyDa",
-    "repo_description": "This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)",
-    "repo_url": "https://github.com/NobyDa/Script",
-    "updated_at": "2025-06-25T15:01:09Z",
-    "stargazers_count": 8321,
-    "forks_count": 3125
-  },
   "chengkongyiban-Loon-main": {
     "user": "chengkongyiban",
     "repo": "Loon",
@@ -227,17 +191,53 @@
     "stargazers_count": 29,
     "forks_count": 1
   },
-  "DualSubs-YouTube-main": {
-    "user": "DualSubs",
-    "repo": "YouTube",
+  "BiliUniverse-Global-main": {
+    "user": "BiliUniverse",
+    "repo": "Global",
     "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/100578089?v=4",
-    "owner_url": "https://github.com/DualSubs",
-    "repo_description": "YouTube增强及双语字幕解决方案",
-    "repo_url": "https://github.com/DualSubs/YouTube",
-    "updated_at": "2025-06-25T23:49:43Z",
-    "stargazers_count": 493,
-    "forks_count": 17
+    "avatar_url": "https://avatars.githubusercontent.com/u/129515498?v=4",
+    "owner_url": "https://github.com/BiliUniverse",
+    "repo_description": "自动识别番剧影视地区限制，自动切换线路至对应地区，快捷返回各区域搜索结果",
+    "repo_url": "https://github.com/BiliUniverse/Global",
+    "updated_at": "2025-06-25T15:29:05Z",
+    "stargazers_count": 29,
+    "forks_count": 1
+  },
+  "BiliUniverse-Enhanced-main": {
+    "user": "BiliUniverse",
+    "repo": "Enhanced",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/129515498?v=4",
+    "owner_url": "https://github.com/BiliUniverse",
+    "repo_description": "全面自定义哔哩哔哩 App 主界面，修改首页和底栏元素的显示顺序和触发功能",
+    "repo_url": "https://github.com/BiliUniverse/Enhanced",
+    "updated_at": "2025-06-25T15:29:10Z",
+    "stargazers_count": 25,
+    "forks_count": 2
+  },
+  "BiliUniverse-ADBlock-main": {
+    "user": "BiliUniverse",
+    "repo": "ADBlock",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/129515498?v=4",
+    "owner_url": "https://github.com/BiliUniverse",
+    "repo_description": "自定义去除 app 广告",
+    "repo_url": "https://github.com/BiliUniverse/ADBlock",
+    "updated_at": "2025-06-23T04:34:43Z",
+    "stargazers_count": 88,
+    "forks_count": 6
+  },
+  "deezertidal-private-master": {
+    "user": "deezertidal",
+    "repo": "private",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/539868?v=4",
+    "owner_url": "https://github.com/deezertidal",
+    "repo_description": "Loon配置 脚本 插件 plugin 规则 分流 破解 解锁",
+    "repo_url": "https://github.com/deezertidal/private",
+    "updated_at": "2025-06-26T22:41:04Z",
+    "stargazers_count": 700,
+    "forks_count": 68
   },
   "VirgilClyne-Cloudflare-main": {
     "user": "VirgilClyne",
@@ -259,8 +259,8 @@
     "owner_url": "https://github.com/sub-store-org",
     "repo_description": "Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!",
     "repo_url": "https://github.com/sub-store-org/Sub-Store",
-    "updated_at": "2025-06-25T16:25:57Z",
-    "stargazers_count": 6879,
-    "forks_count": 771
+    "updated_at": "2025-06-26T17:05:09Z",
+    "stargazers_count": 6880,
+    "forks_count": 772
   }
 }
