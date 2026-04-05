@@ -1,71 +1,4 @@
 {
-  "DualSubs-YouTube-main": [],
-  "Semporia-TikTok-Unlock-master": [
-    {
-      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/._TikTok-JP.plugin",
-      "name": "._TikTok-JP.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/._TikTok-TW.plugin",
-      "name": "._TikTok-TW.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-TW.plugin",
-      "name": "TikTok TW",
-      "description": "解锁 TikTok 台灣 地区",
-      "icon": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png",
-      "open_url": "https://github.com/Semporia/TikTok-Unlock",
-      "homepage": "https://github.com/Semporia/TikTok-Unlock"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-UK.plugin",
-      "name": "TikTok UK",
-      "description": "解锁 TikTok 英國 地区",
-      "icon": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png",
-      "open_url": "https://github.com/Semporia/TikTok-Unlock",
-      "homepage": "https://github.com/Semporia/TikTok-Unlock"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/._TikTok-US.plugin",
-      "name": "._TikTok-US.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/._TikTok-UK.plugin",
-      "name": "._TikTok-UK.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-JP.plugin",
-      "name": "TikTok JP",
-      "description": "解锁 TikTok 日本 地区",
-      "icon": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png",
-      "open_url": "https://github.com/Semporia/TikTok-Unlock",
-      "homepage": "https://github.com/Semporia/TikTok-Unlock"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-US.plugin",
-      "name": "TikTok US",
-      "description": "解锁 TikTok 美國 地区",
-      "icon": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png",
-      "open_url": "https://github.com/Semporia/TikTok-Unlock",
-      "homepage": "https://github.com/Semporia/TikTok-Unlock"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok.plugin",
-      "name": "TikTok.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-KR.plugin",
-      "name": "TikTok KR",
-      "description": "解锁TikTok韩国 地区",
-      "icon": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png",
-      "open_url": "https://github.com/Semporia/TikTok-Unlock",
-      "homepage": "https://github.com/Semporia/TikTok-Unlock"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/._TikTok-KR.plugin",
-      "name": "._TikTok-KR.plugin"
-    }
-  ],
   "chengkongyiban-Loon-main": [
     {
       "url": "https://raw.githubusercontent.com/chengkongyiban/Loon/main/Loon-Gallery/BaiduCloud.plugin",
@@ -107,46 +40,71 @@
       "homepage": "https://ddgksf2013.notion.site/ddgksf2013/Cuttlefish-37a8a0cfac2247609d408db3d963c6d2"
     }
   ],
-  "BiliUniverse-ADBlock-main": [],
   "BiliUniverse-Enhanced-main": [],
-  "BiliUniverse-Global-main": [],
-  "VirgilClyne-GetSomeFries-main": [
+  "Semporia-TikTok-Unlock-master": [
     {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/plugin/Disney+.plugin",
-      "name": "🍟 Fries: Disney+",
-      "description": "Disney+ Mod",
-      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Disney%2B.png",
-      "open_url": "http://boxjs.com/#/app/GetSomeFries.Disney+",
-      "homepage": "https://github.com/VirgilClyne/GetSomeFries/wiki/🍟-Disney-Plus"
+      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/._TikTok-JP.plugin",
+      "name": "._TikTok-JP.plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/plugin/General.plugin",
-      "name": "🍟 Fries: 🌐 General Enhanced",
-      "description": "(📱 iOS版) 1.添加跳过代理部分段内容 2.添加返回真实IP段内容 3.添加不可MitM的域名，防止打断连接",
-      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bypass.png",
-      "homepage": "https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-通用"
+      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/._TikTok-KR.plugin",
+      "name": "._TikTok-KR.plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/plugin/HTTPDNS.Block.plugin",
-      "name": "🍟 Fries: 🚫 Block HTTPDNS",
-      "description": "阻止常见的 HTTPDNS 服务器",
-      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png",
-      "homepage": "https://github.com/VirgilClyne/GetSomeFries/wiki/🚫-HTTPDNS"
+      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/._TikTok-TW.plugin",
+      "name": "._TikTok-TW.plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/plugin/Netflix.beta.plugin",
-      "name": "🍟 Fries: 🍟 Netflix",
-      "description": "(BETA) Netflix Mod",
-      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png",
-      "open_url": "http://boxjs.com/#/app/GetSomeFries.Netflix.beta",
-      "homepage": "https://github.com/VirgilClyne/GetSomeFries/wiki/🍟-Netflix"
+      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/._TikTok-UK.plugin",
+      "name": "._TikTok-UK.plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/plugin/DNS.plugin",
-      "name": "🍟 Fries: 🌐 DNS enhanced",
-      "description": "1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析",
-      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png",
-      "homepage": "https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-DNS"
+      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-JP.plugin",
+      "name": "TikTok JP",
+      "description": "解锁 TikTok 日本 地区",
+      "icon": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png",
+      "open_url": "https://github.com/Semporia/TikTok-Unlock",
+      "homepage": "https://github.com/Semporia/TikTok-Unlock"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-KR.plugin",
+      "name": "TikTok KR",
+      "description": "解锁TikTok韩国 地区",
+      "icon": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png",
+      "open_url": "https://github.com/Semporia/TikTok-Unlock",
+      "homepage": "https://github.com/Semporia/TikTok-Unlock"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-TW.plugin",
+      "name": "TikTok TW",
+      "description": "解锁 TikTok 台灣 地区",
+      "icon": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png",
+      "open_url": "https://github.com/Semporia/TikTok-Unlock",
+      "homepage": "https://github.com/Semporia/TikTok-Unlock"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-UK.plugin",
+      "name": "TikTok UK",
+      "description": "解锁 TikTok 英國 地区",
+      "icon": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png",
+      "open_url": "https://github.com/Semporia/TikTok-Unlock",
+      "homepage": "https://github.com/Semporia/TikTok-Unlock"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-US.plugin",
+      "name": "TikTok US",
+      "description": "解锁 TikTok 美國 地区",
+      "icon": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png",
+      "open_url": "https://github.com/Semporia/TikTok-Unlock",
+      "homepage": "https://github.com/Semporia/TikTok-Unlock"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok.plugin",
+      "name": "TikTok.plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/._TikTok-US.plugin",
+      "name": "._TikTok-US.plugin"
     }
   ],
   "ajune0527-vpn_tool-master": [
@@ -207,6 +165,14 @@
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Baidu_input_method_remove_ads.plugin",
+      "name": "百度输入法去广告",
+      "description": "过滤百度输入法广告，替换个人主页随机图。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Baidu_input_method.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
       "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/BaiduSearchWebpage_remove_ads.plugin",
       "name": "百度网页去广告",
       "description": "移除百度搜索移动端网页的首页广告信息流",
@@ -223,11 +189,35 @@
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Bcy_remove_ads.plugin",
+      "name": "半次元去广告",
+      "description": "过滤半次元广告，移除图片及视频水印。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bcy.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/QuantumultX/Rewrite"
+    },
+    {
       "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Bilibili_remove_ads.plugin",
       "name": "Bilibili去广告",
       "description": "过滤Bilibili广告、移除青少年模式弹窗和交互式弹幕、移除无用功能和链接跟踪参数。此插件仅建议iOS 15以上设备使用，且必须启用MitM-over-HTTP/2功能。",
       "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bilibili.png",
       "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/BingAI.plugin",
+      "name": "Bing AI",
+      "description": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bing.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/BoxJS.plugin",
+      "name": "BoxJS",
+      "description": "JavaScript数据管理器，使用前请在本插件的详情页面为[PROXY]项分配代理策略。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/BoxJS.png",
+      "open_url": "http://boxjs.com",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
@@ -251,58 +241,18 @@
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/JD_Price.plugin",
-      "name": "京东比价",
-      "description": "在京东应用内嵌入比价信息，点击商品标题即可查看。仅支持京东的标准模式。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/JD.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Daily_remove_ads.plugin",
+      "name": "推栏去广告",
+      "description": "过滤推栏广告",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Daily.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/QiDian_remove_ads.plugin",
-      "name": "起点读书去广告",
-      "description": "移除起点读书开屏广告、每日导读、发现页活动弹窗、底栏活动标签及其他推广行为。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QiDian.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Remove_ads_by_keli.plugin",
-      "name": "可莉广告过滤器",
-      "description": "可莉自用的广告过滤器",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/KeLee.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/WexinMiniPrograms_Remove_ads.plugin",
-      "name": "微信小程序去广告",
-      "description": "收录常用小程序的去广告，作者署名在插件内。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/WeixinMiniPrograms.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/smzdm_remove_ads.plugin",
-      "name": "什么值得买去广告",
-      "description": "移除开屏广告、首页顶部广告、好价信息顶部广告、信息页广告、红包弹窗、精简我的页面。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/smzdm.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/LoonGallery.plugin",
-      "name": "插件仓库",
-      "description": "一站式插件仓库任君选择，一键安装，方便快捷。使用前请在本插件的详情页面为[PROXY]项分配代理策略。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Loon.png",
-      "open_url": "https://🎈.com",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Himalaya_remove_ads.plugin",
-      "name": "喜马拉雅去广告",
-      "description": "过滤喜马拉雅广告",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Himalaya.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/DragonRead_remove_ads.plugin",
+      "name": "番茄小说去广告",
+      "description": "过滤番茄小说底部和章末广告",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/DragonRead.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
@@ -315,19 +265,51 @@
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/RedPaper_remove_ads.plugin",
-      "name": "小红书去广告",
-      "description": "过滤信息流推广，移除图片及视频水印，如有异常，请先清除缓存再尝试。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/RedPaper.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Google.plugin",
+      "name": "Google搜索重定向",
+      "description": "将Google搜索重定向至.com域名，如遇频繁跳转请禁用本插件。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Google.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Baidu_input_method_remove_ads.plugin",
-      "name": "百度输入法去广告",
-      "description": "过滤百度输入法广告，替换个人主页随机图。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Baidu_input_method.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Himalaya_remove_ads.plugin",
+      "name": "喜马拉雅去广告",
+      "description": "过滤喜马拉雅广告",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Himalaya.png",
       "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/IThome_remove_ads.plugin",
+      "name": "IT之家去广告",
+      "description": "过滤IT之家信息流广告和文末广告，自定义移除置顶和轮播图。自定义移除项需在插件配置，此插件仅支持8.30及以上版本客户端。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/IThome.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/JD_Price.plugin",
+      "name": "京东比价",
+      "description": "在京东应用内嵌入比价信息，点击商品标题即可查看。仅支持京东的标准模式。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/JD.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/JD_remove_ads.plugin",
+      "name": "京东去广告",
+      "description": "移除京东开屏广告，精简我的页面产品推广。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/JD.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/LoonGallery.plugin",
+      "name": "插件仓库",
+      "description": "一站式插件仓库任君选择，一键安装，方便快捷。使用前请在本插件的详情页面为[PROXY]项分配代理策略。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Loon.png",
+      "open_url": "https://🎈.com",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
@@ -339,38 +321,6 @@
       "homepage": "https://github.com/ajune0527/loon"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Fileball_mount.plugin",
-      "name": "Fileball网盘挂载",
-      "description": "支持挂载阿里云盘、夸克网盘和PikPak网盘，点击下面的链接查看使用方法。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Fileball.png",
-      "open_url": "https://gitlab.com/lodepuly/vpn_tool/-/blob/master/Resource/Markdown/Fileball/README.md",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/PICC_Insurance_remove_ads.plugin",
-      "name": "中国人保去广告",
-      "description": "移除中国人保开屏广告和应用内广告",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PICC_Insurance.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Soul_remove_ads.plugin",
-      "name": "Soul去广告",
-      "description": "移除开屏广告、移除话题页面热Soul话题、移除评论区礼物榜、移除更新提示、移除青少年弹窗、移除我的页面推广、移除悬浮部件。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Soul.png",
-      "open_url": "",
-      "homepage": "https://gitlab.com/lodepuly/vpn_tool//tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/NeteaseNews_remove_ads.plugin",
-      "name": "网易新闻去广告",
-      "description": "移除开屏广告、置顶新闻、热搜列表和搜索栏填充词。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/NeteaseNews.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
       "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Mango_Viedo_remove_ads.plugin",
       "name": "芒果TV去广告",
       "description": "过滤芒果TV客户端广告，由于此插件不再维护，客户端版本高于7.5.4可能会导致此插件失效，请勿升级客户端。",
@@ -379,107 +329,14 @@
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/QuickSearch.plugin",
-      "name": "快捷搜索",
-      "description": "为Safari提供快速切换搜索引擎的能力，点击下方链接查看使用说明。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Safari.png",
-      "open_url": "https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Resource/Markdown/QuickSearch/README.md",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/TubeMax_remove_ads.plugin",
-      "name": "TubeMax去广告",
-      "description": "过滤TubeMax广告",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/TubeMax.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
       "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/NeteaseCloudMusic_remove_ads.plugin",
       "name": "网易云音乐去广告"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/PiPiXia_remove_ads.plugin",
-      "name": "皮皮虾去广告",
-      "description": "过滤皮皮虾广告，移除水印。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PiPiXia.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/QQKSong_remove_ads.plugin",
-      "name": "全民K歌去广告",
-      "description": "移除开屏广告、歌房页面弹窗广告、消息页广告和我的页面广告。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQKSong.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Sub-Store.plugin",
-      "name": "Sub-Store",
-      "description": "高级订阅管理工具，使用前请在本插件的详情页面为[PROXY]项分配代理策略。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Sub-Store.png",
-      "open_url": "https://sub.store",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/YouKu_Video_remove_ads.plugin",
-      "name": "优酷视频去广告",
-      "description": "过滤优酷视频客户端广告，由于此插件不再维护，客户端版本高于11.0.48可能会导致此插件失效，请勿升级客户端。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouKu_Video.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Prevent_DNS_Leaks.plugin",
-      "name": "DNS防泄露",
-      "description": "专为小白设计的DNS防泄露",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Prevent_DNS_Leaks.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Daily_remove_ads.plugin",
-      "name": "推栏去广告",
-      "description": "过滤推栏广告",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Daily.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Weixin_Official_Accounts_remove_ads.plugin",
-      "name": "微信公众号去广告",
-      "description": "过滤微信公众号广告",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weixin.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Weibo_intl_remove_ads.plugin",
-      "name": "微博轻享版去广告",
-      "description": "过滤轻享国际版广告及去除各部分推广模块",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weibo_intl.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/YouTube_remove_ads.plugin",
-      "name": "YouTube去广告",
-      "description": "移除YouTube视频、瀑布流、搜索和Shorts中的广告，移除底部的上传按钮，增加画中画及解锁更多的字幕地区功能。移除YouTube Music底部的上传、选段和升级按钮，支持二者的后台播放。此插件不能与其他具有YouTube广告过滤能力的插件一起使用，并且需要禁用UDP协议的443端口。此插件仅建议iOS 15以上设备使用，支持Premium订阅用户使用，不支持tvOS设备。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouTube.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/SevenCat_remove_ads_with_ssl_unpinning.plugin",
-      "name": "七猫小说去广告",
-      "description": "过滤七猫小说广告，需要IPA签名方可使用。App Store用户请勿使用此插件，务必点击下方链接查看详细教程。"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Taobao_remove_ads.plugin",
-      "name": "淘宝去广告",
-      "description": "过滤淘宝开屏广告",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Taobao.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/NeteaseNews_remove_ads.plugin",
+      "name": "网易新闻去广告",
+      "description": "移除开屏广告、置顶新闻、热搜列表和搜索栏填充词。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/NeteaseNews.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
@@ -492,26 +349,42 @@
       "homepage": "https://gitlab.com/lodepuly/vpn_tool//tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/YouTubeSubtitlesTranslation.plugin",
-      "name": "YouTube字幕翻译",
-      "description": "字幕增强及双语翻译，此插件需要置于YouTube去广告插件之下，不支持tvOS设备。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouTube.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/PICC_Insurance_remove_ads.plugin",
+      "name": "中国人保去广告",
+      "description": "移除中国人保开屏广告和应用内广告",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PICC_Insurance.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/TestFlight.plugin",
-      "name": "TestFlight解锁",
-      "description": "解除TestFlight的区域限制",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/TestFlight.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/PiPiXia_remove_ads.plugin",
+      "name": "皮皮虾去广告",
+      "description": "过滤皮皮虾广告，移除水印。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PiPiXia.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Weibo_remove_ads.plugin",
-      "name": "微博去广告",
-      "description": "过滤微博广告及去除各部分推广模块",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weibo.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Prevent_DNS_Leaks.plugin",
+      "name": "DNS防泄露",
+      "description": "专为小白设计的DNS防泄露",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Prevent_DNS_Leaks.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/QQKSong_remove_ads.plugin",
+      "name": "全民K歌去广告",
+      "description": "移除开屏广告、歌房页面弹窗广告、消息页广告和我的页面广告。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQKSong.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/QQMusic_remove_ads.plugin",
+      "name": "QQ音乐去广告",
+      "description": "过滤QQ音乐广告",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQMusic.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
@@ -522,6 +395,51 @@
       "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQ.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/QiDian_remove_ads.plugin",
+      "name": "起点读书去广告",
+      "description": "移除起点读书开屏广告、每日导读、发现页活动弹窗、底栏活动标签及其他推广行为。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QiDian.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/QuickSearch.plugin",
+      "name": "快捷搜索",
+      "description": "为Safari提供快速切换搜索引擎的能力，点击下方链接查看使用说明。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Safari.png",
+      "open_url": "https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Resource/Markdown/QuickSearch/README.md",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Reddit_remove_ads.plugin",
+      "name": "Reddit去广告",
+      "description": "过滤应用内推广，阻止NSFW提示。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Reddit.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Remove_ads_by_keli.plugin",
+      "name": "可莉广告过滤器",
+      "description": "可莉自用的广告过滤器",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/KeLee.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Script-Hub.plugin",
+      "name": "Script-Hub",
+      "description": "将其他工具的Rewrite、Rule和JavaScript资源转换为Loon能识别的格式，使用前请在本插件的详情页面为[PROXY]项分配代理策略。点击下方链接查看更详细的使用方法。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Script-Hub.png",
+      "open_url": "https://script.hub/",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/SevenCat_remove_ads_with_ssl_unpinning.plugin",
+      "name": "七猫小说去广告",
+      "description": "过滤七猫小说广告，需要IPA签名方可使用。App Store用户请勿使用此插件，务必点击下方链接查看详细教程。"
     },
     {
       "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Spotify_lyrics_translation.plugin",
@@ -540,75 +458,43 @@
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/mobileClouds_remove_ads.plugin",
-      "name": "中国移动云盘去广告",
-      "description": "移除中国移动云盘开屏广告及应用内广告，首页的多余卡片可滑到最底部自定义隐藏掉，插件对此不做处理。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/mobileClouds.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Sub-Store.plugin",
+      "name": "Sub-Store",
+      "description": "高级订阅管理工具，使用前请在本插件的详情页面为[PROXY]项分配代理策略。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Sub-Store.png",
+      "open_url": "https://sub.store",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Taobao_remove_ads.plugin",
+      "name": "淘宝去广告",
+      "description": "过滤淘宝开屏广告",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Taobao.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/BingAI.plugin",
-      "name": "Bing AI",
-      "description": "将Safari浏览器伪装为Edge浏览器，以便绕过BingAI的使用限制。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bing.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Tencent_Video_remove_ads.plugin",
+      "name": "腾讯视频去广告",
+      "description": "过滤腾讯视频客户端广告，如遇失效，则需要重新安装腾讯视频客户端。由于此插件不再维护，客户端版本高于8.9.40可能会导致此插件失效，请勿升级客户端。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Tencent_Video.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Bcy_remove_ads.plugin",
-      "name": "半次元去广告",
-      "description": "过滤半次元广告，移除图片及视频水印。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bcy.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/QuantumultX/Rewrite"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/JD_remove_ads.plugin",
-      "name": "京东去广告",
-      "description": "移除京东开屏广告，精简我的页面产品推广。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/JD.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/TestFlight.plugin",
+      "name": "TestFlight解锁",
+      "description": "解除TestFlight的区域限制",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/TestFlight.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/IThome_remove_ads.plugin",
-      "name": "IT之家去广告",
-      "description": "过滤IT之家信息流广告和文末广告，自定义移除置顶和轮播图。自定义移除项需在插件配置，此插件仅支持8.30及以上版本客户端。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/IThome.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Tieba_remove_ads.plugin",
+      "name": "贴吧去广告",
+      "description": "过滤贴吧广告，需注意此插件会导致新回复等通知功能不可用，需手动进入消息页点击查看。仅限iOS 15及以上版本系统使用。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Tieba.png",
       "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Reddit_remove_ads.plugin",
-      "name": "Reddit去广告",
-      "description": "过滤应用内推广，阻止NSFW提示。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Reddit.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Zhihu_remove_ads.plugin",
-      "name": "知乎去广告",
-      "description": "去除各部广告，建议卸载知乎重新安装。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Zhihu.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/VVebo_repair.plugin",
-      "name": "VVebo时间线修复",
-      "description": "修复失效的用户时间线和我的页面",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/VVebo.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Script-Hub.plugin",
-      "name": "Script-Hub",
-      "description": "将其他工具的Rewrite、Rule和JavaScript资源转换为Loon能识别的格式，使用前请在本插件的详情页面为[PROXY]项分配代理策略。点击下方链接查看更详细的使用方法。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Script-Hub.png",
-      "open_url": "https://script.hub/",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
@@ -628,34 +514,18 @@
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/WARP_Node_Query.plugin",
-      "name": "WARP节点查询",
-      "description": "显示WARP节点的详细信息，请在所有节点页面选择一个节点长按，出现菜单后进行测试。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/1.1.1.1.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Weibo_intl_remove_ads.plugin",
+      "name": "微博轻享版去广告",
+      "description": "过滤轻享国际版广告及去除各部分推广模块",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weibo_intl.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/QQMusic_remove_ads.plugin",
-      "name": "QQ音乐去广告",
-      "description": "过滤QQ音乐广告",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQMusic.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Tencent_Video_remove_ads.plugin",
-      "name": "腾讯视频去广告",
-      "description": "过滤腾讯视频客户端广告，如遇失效，则需要重新安装腾讯视频客户端。由于此插件不再维护，客户端版本高于8.9.40可能会导致此插件失效，请勿升级客户端。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Tencent_Video.png",
-      "open_url": "",
-      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Google.plugin",
-      "name": "Google搜索重定向",
-      "description": "将Google搜索重定向至.com域名，如遇频繁跳转请禁用本插件。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Google.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/TubeMax_remove_ads.plugin",
+      "name": "TubeMax去广告",
+      "description": "过滤TubeMax广告",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/TubeMax.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
@@ -668,26 +538,26 @@
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Tieba_remove_ads.plugin",
-      "name": "贴吧去广告",
-      "description": "过滤贴吧广告，需注意此插件会导致新回复等通知功能不可用，需手动进入消息页点击查看。仅限iOS 15及以上版本系统使用。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Tieba.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/RedPaper_remove_ads.plugin",
+      "name": "小红书去广告",
+      "description": "过滤信息流推广，移除图片及视频水印，如有异常，请先清除缓存再尝试。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/RedPaper.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Weixin_external_links_unlock.plugin",
-      "name": "微信外部链接解锁",
-      "description": "解锁微信外部链接访问限制，跳过中间界面。支付宝链接、被封禁链接进行通知弹窗跳转，在微信中用快照显示被封禁的链接（可选），在微信中进行强制重定向（可选），群聊及扫码均可使用，可选项可在脚本的2~3行更改，也可在BoxJs中更改。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weixin.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/mobileClouds_remove_ads.plugin",
+      "name": "中国移动云盘去广告",
+      "description": "移除中国移动云盘开屏广告及应用内广告，首页的多余卡片可滑到最底部自定义隐藏掉，插件对此不做处理。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/mobileClouds.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/DragonRead_remove_ads.plugin",
-      "name": "番茄小说去广告",
-      "description": "过滤番茄小说底部和章末广告",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/DragonRead.png",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/YouTube_remove_ads.plugin",
+      "name": "YouTube去广告",
+      "description": "移除YouTube视频、瀑布流、搜索和Shorts中的广告，移除底部的上传按钮，增加画中画及解锁更多的字幕地区功能。移除YouTube Music底部的上传、选段和升级按钮，支持二者的后台播放。此插件不能与其他具有YouTube广告过滤能力的插件一起使用，并且需要禁用UDP协议的443端口。此插件仅建议iOS 15以上设备使用，支持Premium订阅用户使用，不支持tvOS设备。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouTube.png",
       "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
@@ -700,74 +570,144 @@
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/BoxJS.plugin",
-      "name": "BoxJS",
-      "description": "JavaScript数据管理器，使用前请在本插件的详情页面为[PROXY]项分配代理策略。",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/BoxJS.png",
-      "open_url": "http://boxjs.com",
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/VVebo_repair.plugin",
+      "name": "VVebo时间线修复",
+      "description": "修复失效的用户时间线和我的页面",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/VVebo.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/YouKu_Video_remove_ads.plugin",
+      "name": "优酷视频去广告",
+      "description": "过滤优酷视频客户端广告，由于此插件不再维护，客户端版本高于11.0.48可能会导致此插件失效，请勿升级客户端。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouKu_Video.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Soul_remove_ads.plugin",
+      "name": "Soul去广告",
+      "description": "移除开屏广告、移除话题页面热Soul话题、移除评论区礼物榜、移除更新提示、移除青少年弹窗、移除我的页面推广、移除悬浮部件。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Soul.png",
+      "open_url": "",
+      "homepage": "https://gitlab.com/lodepuly/vpn_tool//tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/smzdm_remove_ads.plugin",
+      "name": "什么值得买去广告",
+      "description": "移除开屏广告、首页顶部广告、好价信息顶部广告、信息页广告、红包弹窗、精简我的页面。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/smzdm.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/WexinMiniPrograms_Remove_ads.plugin",
+      "name": "微信小程序去广告",
+      "description": "收录常用小程序的去广告，作者署名在插件内。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/WeixinMiniPrograms.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Zhihu_remove_ads.plugin",
+      "name": "知乎去广告",
+      "description": "去除各部广告，建议卸载知乎重新安装。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Zhihu.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Weixin_Official_Accounts_remove_ads.plugin",
+      "name": "微信公众号去广告",
+      "description": "过滤微信公众号广告",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weixin.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/YouTubeSubtitlesTranslation.plugin",
+      "name": "YouTube字幕翻译",
+      "description": "字幕增强及双语翻译，此插件需要置于YouTube去广告插件之下，不支持tvOS设备。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouTube.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Weixin_external_links_unlock.plugin",
+      "name": "微信外部链接解锁",
+      "description": "解锁微信外部链接访问限制，跳过中间界面。支付宝链接、被封禁链接进行通知弹窗跳转，在微信中用快照显示被封禁的链接（可选），在微信中进行强制重定向（可选），群聊及扫码均可使用，可选项可在脚本的2~3行更改，也可在BoxJs中更改。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weixin.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Fileball_mount.plugin",
+      "name": "Fileball网盘挂载",
+      "description": "支持挂载阿里云盘、夸克网盘和PikPak网盘，点击下面的链接查看使用方法。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Fileball.png",
+      "open_url": "https://gitlab.com/lodepuly/vpn_tool/-/blob/master/Resource/Markdown/Fileball/README.md",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/Weibo_remove_ads.plugin",
+      "name": "微博去广告",
+      "description": "过滤微博广告及去除各部分推广模块",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weibo.png",
+      "open_url": "",
+      "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ajune0527/vpn_tool/master/Tool/Loon/Plugin/WARP_Node_Query.plugin",
+      "name": "WARP节点查询",
+      "description": "显示WARP节点的详细信息，请在所有节点页面选择一个节点长按，出现菜单后进行测试。",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/1.1.1.1.png",
+      "open_url": "",
       "homepage": "https://github.com/ajune0527/vpn_tool/tree/master/Tool/Loon/Plugin"
     }
   ],
-  "app2smile-rules-master": [
+  "BiliUniverse-Global-main": [],
+  "VirgilClyne-GetSomeFries-main": [
     {
-      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/baidu-no-redirect.plugin",
-      "name": "baidu-no-redirect.plugin"
+      "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/plugin/HTTPDNS.Block.plugin",
+      "name": "🍟 Fries: 🚫 Block HTTPDNS",
+      "description": "阻止常见的 HTTPDNS 服务器",
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png",
+      "homepage": "https://github.com/VirgilClyne/GetSomeFries/wiki/🚫-HTTPDNS"
     },
     {
-      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/adsense.plugin",
-      "name": "广告联盟去广告",
-      "description": "快手联盟,优量汇,穿山甲",
-      "open_url": "https://github.com/app2smile/rules"
+      "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/plugin/General.plugin",
+      "name": "🍟 Fries: 🌐 General Enhanced",
+      "description": "(📱 iOS版) 1.添加跳过代理部分段内容 2.添加返回真实IP段内容 3.添加不可MitM的域名，防止打断连接",
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bypass.png",
+      "homepage": "https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-通用"
     },
     {
-      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/bilibili.plugin",
-      "name": "bilibili去广告(>=iOS15)",
-      "description": "解除部分视频后台限制,开屏页广告,推荐页广告,动态(最常访问/推荐话题/列表广告),视频播放页面(up主推荐广告,相关推荐广告)",
-      "open_url": "https://github.com/app2smile/rules"
+      "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/plugin/Disney+.plugin",
+      "name": "🍟 Fries: Disney+",
+      "description": "Disney+ Mod",
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Disney%2B.png",
+      "open_url": "http://boxjs.com/#/app/GetSomeFries.Disney+",
+      "homepage": "https://github.com/VirgilClyne/GetSomeFries/wiki/🍟-Disney-Plus"
     },
     {
-      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/qidian.plugin",
-      "name": "起点App去广告",
-      "description": "Loon已支持tcp mitm,可以完美去广告",
-      "open_url": "https://github.com/app2smile/rules"
+      "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/plugin/DNS.plugin",
+      "name": "🍟 Fries: 🌐 DNS enhanced",
+      "description": "1.域名按所属DNS进行分流解析 2.路由器地址使用系统DNS进行解析 3.特殊地址使用规范DNS进行解析",
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png",
+      "homepage": "https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-DNS"
     },
     {
-      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/qqnews.plugin",
-      "name": "腾讯新闻App去广告",
-      "description": "开屏页广告有缓存,需要全新应用",
-      "open_url": "https://github.com/app2smile/rules"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/spotify.plugin",
-      "name": "Spotify(>=iOS15)",
-      "description": "2025.06.27 部分解锁premium,音质不能设置为超高(建议登录后再打开脚本,重启app等待脚本生效)",
-      "open_url": "https://github.com/app2smile/rules"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/tieba.plugin",
-      "name": "贴吧去广告(>=iOS15)",
-      "description": "20260106;开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
-      "open_url": "https://github.com/app2smile/rules"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/vgtime.plugin",
-      "name": "vgTimeApp去广告",
-      "description": "去开屏广告(需全新应用). 若要去新闻列表广告需要搭配广告联盟模块",
-      "open_url": "https://github.com/app2smile/rules"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/zhihu.plugin",
-      "name": "知乎App去广告",
-      "description": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
-      "open_url": "https://github.com/app2smile/rules"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/youtube.plugin",
-      "name": "YouTube去广告(>=iOS15)",
-      "description": "去首页瀑布流广告/播放页推荐列表广告(非贴片广告)",
-      "open_url": "https://github.com/app2smile/rules"
+      "url": "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/plugin/Netflix.beta.plugin",
+      "name": "🍟 Fries: 🍟 Netflix",
+      "description": "(BETA) Netflix Mod",
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png",
+      "open_url": "http://boxjs.com/#/app/GetSomeFries.Netflix.beta",
+      "homepage": "https://github.com/VirgilClyne/GetSomeFries/wiki/🍟-Netflix"
     }
   ],
+  "DualSubs-YouTube-main": [],
+  "BiliUniverse-ADBlock-main": [],
   "deezertidal-private-master": [
     {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/1blocker.plugin",
@@ -791,17 +731,17 @@
       "homepage": "https://yfamily.ml"
     },
     {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/BaiduCloud.plugin",
-      "name": "百度云加速",
-      "description": "百度云倍速播放",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/baiducloud.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/BedtimeFan.plugin",
       "name": "Bedtime Fan",
       "description": "助眠风扇解锁",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/bedtimefan.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/BaiduCloud.plugin",
+      "name": "百度云加速",
+      "description": "百度云倍速播放",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/baiducloud.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -812,17 +752,17 @@
       "homepage": "https://yfamily.ml"
     },
     {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/CamScanner.plugin",
-      "name": "扫描全能王",
-      "description": "解锁扫描全能王",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/cs.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/GeoLocation.plugin",
       "name": "GeoLocation",
       "description": "节点信息查询（IP，服务商，国家，时区，经纬度，货币）",
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Domestic.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/CamScanner.plugin",
+      "name": "扫描全能王",
+      "description": "解锁扫描全能王",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/cs.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -1008,6 +948,13 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/bdwk.plugin",
+      "name": "百度文库",
+      "description": "解锁文档阅读权限",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/bdwk.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/bili.plugin",
       "name": "Bilibili 1080P",
       "description": "Bilibili解锁高清画质",
@@ -1183,6 +1130,13 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/documents.plugin",
+      "name": "Documents",
+      "description": "Documents解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/documents.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/drafts.plugin",
       "name": "Drafts",
       "description": "Drafts解锁会员",
@@ -1267,6 +1221,13 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/endel.plugin",
+      "name": "Endel",
+      "description": "Endel解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/endel.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/fabulous.plugin",
       "name": "Fabulous",
       "description": "Fabulous会员解锁",
@@ -1285,6 +1246,13 @@
       "name": "番茄小说",
       "description": "番茄小说去广告",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/fanqie.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/fantastical.plugin",
+      "name": "Fantastical",
+      "description": "Fantastical解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/fantastical.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -1351,17 +1319,17 @@
       "homepage": "https://yfamily.ml"
     },
     {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/gql.plugin",
-      "name": "过期啦",
-      "description": "过期啦解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/gql.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/grammarly.plugin",
       "name": "Grammarly",
       "description": "Grammarly解锁订阅 subscription.grammarly.com",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/grammarly.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/gql.plugin",
+      "name": "过期啦",
+      "description": "过期啦解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/gql.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -1449,13 +1417,6 @@
       "homepage": "https://yfamily.ml"
     },
     {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/hyxj.plugin",
-      "name": "黄油相机",
-      "description": "黄油相机解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/hyxj.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/hyzm.plugin",
       "name": "绘影字幕",
       "description": "绘影字幕解锁会员",
@@ -1463,10 +1424,31 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/hzk.plugin",
+      "name": "汇中考",
+      "description": "汇中考解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/hzk.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/iconkiller.plugin",
       "name": "icon Killer",
       "description": "icon Killer解锁会员",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/iconkiller.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/ilovepdf.plugin",
+      "name": "i Love PDF",
+      "description": "i Love PDF解锁",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/ilovepdf.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/hyxj.plugin",
+      "name": "黄油相机",
+      "description": "黄油相机解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/hyxj.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -1502,6 +1484,13 @@
       "name": "JibJab",
       "description": "JibJab解锁会员",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/jibjab.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/jjyc.plugin",
+      "name": "尽简衣橱",
+      "description": "尽简衣橱解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/jjyc.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -1561,10 +1550,24 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/kprj.plugin",
+      "name": "卡片日记",
+      "description": "卡片日记解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/kprj.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/kuwo-unlock.plugin",
       "name": "酷我音乐会员",
       "description": "听书+下载+解锁数字专辑",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/kuwosvip.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/ky.plugin",
+      "name": "咖映",
+      "description": "咖映会员解锁",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/ky.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -1573,6 +1576,13 @@
       "description": "灵敢足迹解锁会员",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/lgzj.png",
       "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/lifeindex.plugin",
+      "name": "生活指数",
+      "description": "生活指数提醒",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/lifeindex.png",
+      "open_url": "https://github.com/deezertidal/private"
     },
     {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/lifeviewer.plugin",
@@ -1623,6 +1633,20 @@
       "name": "来音智能陪练",
       "description": "来音智能陪练解锁",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/ly.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/mbdt.plugin",
+      "name": "目标地图",
+      "description": "目标地图解锁",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/mbdt.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/mdsz.plugin",
+      "name": "谜底时钟",
+      "description": "谜底时钟解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/mdsz.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -1682,13 +1706,6 @@
       "homepage": "https://yfamily.ml"
     },
     {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/mojo.plugin",
-      "name": "Mojo",
-      "description": "Mojo会员解锁",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/mojo.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/molycam.plugin",
       "name": "Molycam",
       "description": "Molycam会员解锁",
@@ -1696,17 +1713,17 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/mojo.plugin",
+      "name": "Mojo",
+      "description": "Mojo会员解锁",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/mojo.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/mondly.plugin",
       "name": "Mondly",
       "description": "Mondly解锁会员",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/mondly.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/moneythings.plugin",
-      "name": "MoneyThings",
-      "description": "MoneyThings解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/moneythings.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -1724,6 +1741,20 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/multisearch.plugin",
+      "name": "MultiSearch",
+      "description": "多重搜索",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/multisearch.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/musixmatch.plugin",
+      "name": "Musixmatch",
+      "description": "Musixmatch解锁",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/musixmatch.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/myfitnesspal.plugin",
       "name": "MyFitnessPal",
       "description": "MyFitnessPal会员解锁",
@@ -1738,11 +1769,24 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/nfc.plugin",
+      "name": "NFC门禁卡公交卡",
+      "description": "NFC门禁卡公交卡读写神器",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/nfc.png"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/nicegram.plugin",
       "name": "Nicegram会员",
       "description": "解锁Nicegram会员(2022.07.15)",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/nicegram.png",
       "open_url": "https://github.com/I-am-R-E/Functional-Store-Hub/tree/Master/Nicegram",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/notability.plugin",
+      "name": "Notability Plus",
+      "description": "Notability解锁",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/notability.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -1795,6 +1839,13 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/pdfviewer.plugin",
+      "name": "PDF Viewer",
+      "description": "PDF Viewer解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/pdfviewer.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/peak.plugin",
       "name": "Peak",
       "description": "Peak解锁Pro",
@@ -1809,17 +1860,17 @@
       "homepage": "https://yfamily.ml"
     },
     {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/peiyinxiu.plugin",
-      "name": "配音秀",
-      "description": "配音秀解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/peiyinxiu.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/percento.plugin",
       "name": "Percento",
       "description": "Percento解锁会员",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/percento.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/peiyinxiu.plugin",
+      "name": "配音秀",
+      "description": "配音秀解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/peiyinxiu.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -1872,6 +1923,13 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/planny.plugin",
+      "name": "Planny",
+      "description": "Planny会员解锁",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/planny.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/pocketlists.plugin",
       "name": "Pocket Lists",
       "description": "Pocket Lists解锁会员",
@@ -1921,6 +1979,13 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/qj.plugin",
+      "name": "钱迹",
+      "description": "钱迹解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/qj.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/qmxs.plugin",
       "name": "七猫小说",
       "description": "七猫小说解锁",
@@ -1942,6 +2007,20 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/retake.plugin",
+      "name": "Retake",
+      "description": "Retake解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/retake.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/rmrb.plugin",
+      "name": "人民日报去广告",
+      "description": "人民日报去广告",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/rmrb.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/rq.plugin",
       "name": "如期",
       "description": "如期会员解锁",
@@ -1953,6 +2032,13 @@
       "name": "人人视频去广告",
       "description": "人人（多多）视频去广告",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/rrsp.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/rzxj.plugin",
+      "name": "日杂相机",
+      "description": "日杂相机解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/rzxj.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -2005,6 +2091,20 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/smwd.plugin",
+      "name": "石墨文档",
+      "description": "石墨文档解锁",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/smwd.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/smxcgj.plugin",
+      "name": "私密相册管家",
+      "description": "私密相册管家解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/smxcgj.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/sndd.plugin",
       "name": "少年得到",
       "description": "少年得到解锁会员",
@@ -2046,10 +2146,10 @@
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/stsq.png"
     },
     {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/symbolab.plugin",
-      "name": "Symbolab",
-      "description": "Symbolab Pro",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/symbolab.png",
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/styleart.plugin",
+      "name": "StyleArt",
+      "description": "StyleArt解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/styleart.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -2116,6 +2216,13 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/ttd.plugin",
+      "name": "天天豆",
+      "description": "天天豆解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/ttd.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/vista.plugin",
       "name": "Vista看天下",
       "description": "Vista看天下会员解锁",
@@ -2130,17 +2237,24 @@
       "homepage": "https://yfamily.ml"
     },
     {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/vsco.plugin",
-      "name": "VSCO",
-      "description": "vsco解锁",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/vsco.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/wallcraft.plugin",
       "name": "WallCraft",
       "description": "WallCraft解锁永久专业版",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/wallcraft.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/watchout.plugin",
+      "name": "Watchout",
+      "description": "Watchout小组件解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/watchout.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/vsco.plugin",
+      "name": "VSCO",
+      "description": "vsco解锁",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/vsco.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -2193,6 +2307,13 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/widgetsmith.plugin",
+      "name": "Widgetsmith",
+      "description": "Widgetsmith解锁",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/widgetsmith.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/wnbsq.plugin",
       "name": "万能变声器",
       "description": "万能变声器解锁",
@@ -2211,6 +2332,13 @@
       "name": "网速测试大师",
       "description": "网速测试大师解锁会员",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/wscsds.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/wsgj.plugin",
+      "name": "网速管家",
+      "description": "网速管家解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/wsgj.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -2286,6 +2414,20 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/xyts.plugin",
+      "name": "新语听书",
+      "description": "新语听书解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/xyts.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/xzj.plugin",
+      "name": "熊掌记",
+      "description": "熊掌记解锁",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/xzj.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/xzjhz.plugin",
       "name": "小组件盒子",
       "description": "小组件盒子解锁会员",
@@ -2328,6 +2470,13 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/yjhl.plugin",
+      "name": "一键换脸",
+      "description": "一键换脸解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/yjhl.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/ymjz.plugin",
       "name": "一木记账",
       "description": "一木记账解锁会员",
@@ -2348,10 +2497,38 @@
       "homepage": "https://yfamily.ml"
     },
     {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/yunting.plugin",
+      "name": "云听",
+      "description": "云听解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/yunting.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/ywqpy.plugin",
       "name": "语文趣配音",
       "description": "语文趣配音解锁会员",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/ywqpy.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/zebra.plugin",
+      "name": "斑马海报",
+      "description": "斑马海报解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/zebra.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/zhitiao.plugin",
+      "name": "纸条",
+      "description": "纸条年度会员解锁",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/zhitiao.png",
+      "homepage": "https://yfamily.ml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/zhsck.plugin",
+      "name": "中华诗词库",
+      "description": "中华诗词库解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/zhsck.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -2369,132 +2546,6 @@
       "homepage": "https://yfamily.ml"
     },
     {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/ztc.plugin",
-      "name": "字体册",
-      "description": "字体册解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/ztc.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/musixmatch.plugin",
-      "name": "Musixmatch",
-      "description": "Musixmatch解锁",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/musixmatch.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/planny.plugin",
-      "name": "Planny",
-      "description": "Planny会员解锁",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/planny.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/mbdt.plugin",
-      "name": "目标地图",
-      "description": "目标地图解锁",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/mbdt.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/yjhl.plugin",
-      "name": "一键换脸",
-      "description": "一键换脸解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/yjhl.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/ilovepdf.plugin",
-      "name": "i Love PDF",
-      "description": "i Love PDF解锁",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/ilovepdf.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/xyts.plugin",
-      "name": "新语听书",
-      "description": "新语听书解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/xyts.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/zebra.plugin",
-      "name": "斑马海报",
-      "description": "斑马海报解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/zebra.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/styleart.plugin",
-      "name": "StyleArt",
-      "description": "StyleArt解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/styleart.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/multisearch.plugin",
-      "name": "MultiSearch",
-      "description": "多重搜索",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/multisearch.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/smwd.plugin",
-      "name": "石墨文档",
-      "description": "石墨文档解锁",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/smwd.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/rmrb.plugin",
-      "name": "人民日报去广告",
-      "description": "人民日报去广告",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/rmrb.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/xzj.plugin",
-      "name": "熊掌记",
-      "description": "熊掌记解锁",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/xzj.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/notability.plugin",
-      "name": "Notability Plus",
-      "description": "Notability解锁",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/notability.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/widgetsmith.plugin",
-      "name": "Widgetsmith",
-      "description": "Widgetsmith解锁",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/widgetsmith.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/yunting.plugin",
-      "name": "云听",
-      "description": "云听解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/yunting.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/lifeindex.plugin",
-      "name": "生活指数",
-      "description": "生活指数提醒",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/lifeindex.png",
-      "open_url": "https://github.com/deezertidal/private"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/zhitiao.plugin",
-      "name": "纸条",
-      "description": "纸条年度会员解锁",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/zhitiao.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/zt.plugin",
       "name": "佐糖",
       "description": "佐糖解锁会员",
@@ -2502,24 +2553,10 @@
       "homepage": "https://yfamily.ml"
     },
     {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/qj.plugin",
-      "name": "钱迹",
-      "description": "钱迹解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/qj.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/hzk.plugin",
-      "name": "汇中考",
-      "description": "汇中考解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/hzk.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/kprj.plugin",
-      "name": "卡片日记",
-      "description": "卡片日记解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/kprj.png",
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/ztc.plugin",
+      "name": "字体册",
+      "description": "字体册解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/ztc.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -2530,51 +2567,10 @@
       "homepage": "https://yfamily.ml"
     },
     {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/nfc.plugin",
-      "name": "NFC门禁卡公交卡",
-      "description": "NFC门禁卡公交卡读写神器",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/nfc.png"
-    },
-    {
       "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/varlens.plugin",
       "name": "Varlens",
       "description": "Varlens解锁会员",
       "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/varlens.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/documents.plugin",
-      "name": "Documents",
-      "description": "Documents解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/documents.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/watchout.plugin",
-      "name": "Watchout",
-      "description": "Watchout小组件解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/watchout.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/ky.plugin",
-      "name": "咖映",
-      "description": "咖映会员解锁",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/ky.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/endel.plugin",
-      "name": "Endel",
-      "description": "Endel解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/endel.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/jjyc.plugin",
-      "name": "尽简衣橱",
-      "description": "尽简衣橱解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/jjyc.png",
       "homepage": "https://yfamily.ml"
     },
     {
@@ -2585,73 +2581,17 @@
       "homepage": "https://yfamily.ml"
     },
     {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/rzxj.plugin",
-      "name": "日杂相机",
-      "description": "日杂相机解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/rzxj.png",
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/symbolab.plugin",
+      "name": "Symbolab",
+      "description": "Symbolab Pro",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/symbolab.png",
       "homepage": "https://yfamily.ml"
     },
     {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/fantastical.plugin",
-      "name": "Fantastical",
-      "description": "Fantastical解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/fantastical.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/retake.plugin",
-      "name": "Retake",
-      "description": "Retake解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/retake.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/zhsck.plugin",
-      "name": "中华诗词库",
-      "description": "中华诗词库解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/zhsck.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/wsgj.plugin",
-      "name": "网速管家",
-      "description": "网速管家解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/wsgj.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/smxcgj.plugin",
-      "name": "私密相册管家",
-      "description": "私密相册管家解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/smxcgj.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/mdsz.plugin",
-      "name": "谜底时钟",
-      "description": "谜底时钟解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/mdsz.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/ttd.plugin",
-      "name": "天天豆",
-      "description": "天天豆解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/ttd.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/pdfviewer.plugin",
-      "name": "PDF Viewer",
-      "description": "PDF Viewer解锁会员",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/pdfviewer.png",
-      "homepage": "https://yfamily.ml"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/bdwk.plugin",
-      "name": "百度文库",
-      "description": "解锁文档阅读权限",
-      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/bdwk.png",
+      "url": "https://raw.githubusercontent.com/deezertidal/private/master/plugallery/moneythings.plugin",
+      "name": "MoneyThings",
+      "description": "MoneyThings解锁会员",
+      "icon": "https://raw.githubusercontent.com/deezertidal/private/main/icons/moneythings.png",
       "homepage": "https://yfamily.ml"
     }
   ],
@@ -2660,22 +2600,6 @@
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Advertising/Advertising.plugin",
       "name": "Advertising",
       "description": "最后更新时间 2025-08-26 02:12:25",
-      "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
-      "open_url": "https://github.com/blackmatrix7/ios_rule_script",
-      "homepage": "https://github.com/blackmatrix7/ios_rule_script"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Upgrade/Upgrade.plugin",
-      "name": "Upgrade",
-      "description": "最后更新时间 2025-06-06 09:20:18",
-      "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
-      "open_url": "https://github.com/blackmatrix7/ios_rule_script",
-      "homepage": "https://github.com/blackmatrix7/ios_rule_script"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Redirect/Redirect.plugin",
-      "name": "Redirect",
-      "description": "最后更新时间 2025-06-06 09:20:11",
       "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
       "open_url": "https://github.com/blackmatrix7/ios_rule_script",
       "homepage": "https://github.com/blackmatrix7/ios_rule_script"
@@ -2697,9 +2621,9 @@
       "homepage": "https://github.com/blackmatrix7/ios_rule_script"
     },
     {
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/SafeRedirect/SafeRedirect.plugin",
-      "name": "SafeRedirect",
-      "description": "最后更新时间 2025-06-06 09:20:18",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/BlockHTTPDNS/BlockHTTPDNS.plugin",
+      "name": "BlockHTTPDNS",
+      "description": "最后更新时间 2025-06-06 09:20:55",
       "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
       "open_url": "https://github.com/blackmatrix7/ios_rule_script",
       "homepage": "https://github.com/blackmatrix7/ios_rule_script"
@@ -2713,9 +2637,25 @@
       "homepage": "https://github.com/blackmatrix7/ios_rule_script"
     },
     {
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/BlockHTTPDNS/BlockHTTPDNS.plugin",
-      "name": "BlockHTTPDNS",
-      "description": "最后更新时间 2025-06-06 09:20:55",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Redirect/Redirect.plugin",
+      "name": "Redirect",
+      "description": "最后更新时间 2025-06-06 09:20:11",
+      "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
+      "open_url": "https://github.com/blackmatrix7/ios_rule_script",
+      "homepage": "https://github.com/blackmatrix7/ios_rule_script"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/SafeRedirect/SafeRedirect.plugin",
+      "name": "SafeRedirect",
+      "description": "最后更新时间 2025-06-06 09:20:18",
+      "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
+      "open_url": "https://github.com/blackmatrix7/ios_rule_script",
+      "homepage": "https://github.com/blackmatrix7/ios_rule_script"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Upgrade/Upgrade.plugin",
+      "name": "Upgrade",
+      "description": "最后更新时间 2025-06-06 09:20:18",
       "icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg",
       "open_url": "https://github.com/blackmatrix7/ios_rule_script",
       "homepage": "https://github.com/blackmatrix7/ios_rule_script"
@@ -2735,7 +2675,75 @@
       "name": "Rewrite.plugin"
     }
   ],
+  "app2smile-rules-master": [
+    {
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/baidu-no-redirect.plugin",
+      "name": "baidu-no-redirect.plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/adsense.plugin",
+      "name": "广告联盟去广告",
+      "description": "快手联盟,优量汇,穿山甲",
+      "open_url": "https://github.com/app2smile/rules"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/qidian.plugin",
+      "name": "起点App去广告",
+      "description": "Loon已支持tcp mitm,可以完美去广告",
+      "open_url": "https://github.com/app2smile/rules"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/vgtime.plugin",
+      "name": "vgTimeApp去广告",
+      "description": "去开屏广告(需全新应用). 若要去新闻列表广告需要搭配广告联盟模块",
+      "open_url": "https://github.com/app2smile/rules"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/spotify.plugin",
+      "name": "Spotify(>=iOS15)",
+      "description": "2025.06.27 部分解锁premium,音质不能设置为超高(建议登录后再打开脚本,重启app等待脚本生效)",
+      "open_url": "https://github.com/app2smile/rules"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/qqnews.plugin",
+      "name": "腾讯新闻App去广告",
+      "description": "开屏页广告有缓存,需要全新应用",
+      "open_url": "https://github.com/app2smile/rules"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/zhihu.plugin",
+      "name": "知乎App去广告",
+      "description": "开屏页广告,首页右下角悬浮框,推荐列表广告,问题回答列表广告,具体回答下广告",
+      "open_url": "https://github.com/app2smile/rules"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/bilibili.plugin",
+      "name": "bilibili去广告(>=iOS15)",
+      "description": "解除部分视频后台限制,开屏页广告,推荐页广告,动态(最常访问/推荐话题/列表广告),视频播放页面(up主推荐广告,相关推荐广告)",
+      "open_url": "https://github.com/app2smile/rules"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/tieba.plugin",
+      "name": "贴吧去广告(>=iOS15)",
+      "description": "20260106;开屏广告;推荐和吧内帖子列表的直播及广告;详情页直播/关联商品/广告;看图模式广告;首页和帖子详情页右下角悬浮广告;部分吧内的置顶/最新中间的广告/head图片广告/head直播",
+      "open_url": "https://github.com/app2smile/rules"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/app2smile/rules/master/plugin/youtube.plugin",
+      "name": "YouTube去广告(>=iOS15)",
+      "description": "去首页瀑布流广告/播放页推荐列表广告(非贴片广告)",
+      "open_url": "https://github.com/app2smile/rules"
+    }
+  ],
   "Guding88-Script-main": [
+    {
+      "url": "https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.plugin",
+      "name": "APP脚本合集-骨钉",
+      "description": "不更了",
+      "icon": "https://raw.githubusercontent.com/Guding88/iCon/main/png/Guding.png",
+      "open_url": "https://t.me/Guding88",
+      "homepage": "https://github.com/Guding88/Script/blob/main/Readme.md"
+    },
     {
       "url": "https://raw.githubusercontent.com/Guding88/Script/main/FireWork.plugin",
       "name": "FireWork ios公众号签到",
@@ -2751,26 +2759,10 @@
       "icon": "https://raw.githubusercontent.com/Guding88/Script/main/bawangchaji/bwcj.png",
       "open_url": "https://t.me/Guding88",
       "homepage": "https://github.com/Guding88/Script/blob/main/bawangchaji/Readme.md"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Guding88/Script/main/APPheji_Guding.plugin",
-      "name": "APP脚本合集-骨钉",
-      "description": "不更了",
-      "icon": "https://raw.githubusercontent.com/Guding88/iCon/main/png/Guding.png",
-      "open_url": "https://t.me/Guding88",
-      "homepage": "https://github.com/Guding88/Script/blob/main/Readme.md"
     }
   ],
-  "VirgilClyne-iRingo-main": [],
+  "Tartarus2014-Loon-Script-master": [],
   "chavyleung-scripts-master": [
-    {
-      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.tf.plugin",
-      "name": "BoxJs",
-      "description": "(TF)Data manager",
-      "icon": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxJs.png",
-      "open_url": "http://boxjs.net",
-      "homepage": "https://chavyleung.gitbook.io/boxjs/"
-    },
     {
       "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin",
       "name": "BoxJs",
@@ -2778,26 +2770,26 @@
       "icon": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxJs.png",
       "open_url": "http://boxjs.com",
       "homepage": "https://chavyleung.gitbook.io/boxjs/"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.tf.plugin",
+      "name": "BoxJs",
+      "description": "(TF)Data manager",
+      "icon": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxJs.png",
+      "open_url": "http://boxjs.net",
+      "homepage": "https://chavyleung.gitbook.io/boxjs/"
     }
   ],
-  "Tartarus2014-Loon-Script-master": [],
   "NobyDa-Script-master": [
-    {
-      "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_Daily_bonus.plugin",
-      "name": "🐻 NobyDa签到脚本",
-      "description": "包括哔哩漫画、贴吧、快看、爱奇艺，携程旅行、巴哈姆特。部分脚本获取Cookie方法请看脚本注释。注意，该Loon链接目前仅适用于\"订阅脚本\"，非\"插件\"。添加脚本订阅后请按需启用脚本。",
-      "icon": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png",
-      "homepage": "https://github.com/NobyDa/Script/tree/master"
-    },
     {
       "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_Google_CAPTCHA.plugin",
       "name": "Loon_Google_CAPTCHA.plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Download.plugin",
-      "name": "TestFlight区域限制解除",
-      "description": "该Loon插件用以解决更新TestFlight App时, 提示\"APP不可用\"问题.",
-      "icon": "https://cdn.jsdelivr.net/gh/NobyDa/mini@master/Color/testflight.png",
+      "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_Bahamut_ADS.plugin",
+      "name": "巴哈姆特动画疯",
+      "description": "该Loon插件用以屏蔽动画疯播放广告 (由于强制验证观看广告时间，故以黑屏25秒的方式屏蔽)",
+      "icon": "https://raw.githubusercontent.com/NobyDa/mini/master/Color/bahamutGame.png",
       "homepage": "https://github.com/NobyDa/Script/tree/master"
     },
     {
@@ -2815,6 +2807,13 @@
       "homepage": "https://github.com/NobyDa/Script/tree/master"
     },
     {
+      "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Download.plugin",
+      "name": "TestFlight区域限制解除",
+      "description": "该Loon插件用以解决更新TestFlight App时, 提示\"APP不可用\"问题.",
+      "icon": "https://cdn.jsdelivr.net/gh/NobyDa/mini@master/Color/testflight.png",
+      "homepage": "https://github.com/NobyDa/Script/tree/master"
+    },
+    {
       "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_TF_Account.plugin",
       "name": "TestFlight账户管理",
       "description": "自动存储/合并多个TestFlight账户列表, 并可分享/导出TestFlight APP.",
@@ -2822,13 +2821,14 @@
       "homepage": "https://github.com/NobyDa/Script/tree/master"
     },
     {
-      "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_Bahamut_ADS.plugin",
-      "name": "巴哈姆特动画疯",
-      "description": "该Loon插件用以屏蔽动画疯播放广告 (由于强制验证观看广告时间，故以黑屏25秒的方式屏蔽)",
-      "icon": "https://raw.githubusercontent.com/NobyDa/mini/master/Color/bahamutGame.png",
+      "url": "https://raw.githubusercontent.com/NobyDa/Script/master/Loon/Loon_Daily_bonus.plugin",
+      "name": "🐻 NobyDa签到脚本",
+      "description": "包括哔哩漫画、贴吧、快看、爱奇艺，携程旅行、巴哈姆特。部分脚本获取Cookie方法请看脚本注释。注意，该Loon链接目前仅适用于\"订阅脚本\"，非\"插件\"。添加脚本订阅后请按需启用脚本。",
+      "icon": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png",
       "homepage": "https://github.com/NobyDa/Script/tree/master"
     }
   ],
+  "VirgilClyne-iRingo-main": [],
   "I-am-R-E-Functional-Store-Hub-Master": [
     {
       "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Loon.plugin",
@@ -2838,6 +2838,27 @@
       "open_url": "https://t.me/Functional_Store_Hub",
       "homepage": "https://github.com/I-am-R-E/Functional-Store-Hub/tree/Master/KuWoMusic",
       "manual": "https://t.me/Functional_Store_Hub/10"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Loon.plugin",
+      "name": "财新周刊会员",
+      "description": "财新周刊会员,登陆账号体验更加(2022.07.12)",
+      "open_url": "https://github.com/I-am-R-E/Functional-Store-Hub/tree/Master/CaiXinWeekly"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Loon.plugin",
+      "name": "Pixiv Show",
+      "description": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置",
+      "icon": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Files/icon.png",
+      "open_url": "http://boxjs.com/#/app/Functional_Store_Hub.PixivShow",
+      "homepage": "https://github.com/I-am-R-E/Functional-Store-Hub/tree/Master/PixivShow",
+      "manual": "https://t.me/Functional_Store_Hub/10"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXin/Loon.plugin",
+      "name": "财新会员",
+      "description": "解锁财新文章阅读与音频限制 @Functional_Store_Hub",
+      "open_url": "https://github.com/I-am-R-E/Functional-Store-Hub/tree/Master/CaiXin"
     },
     {
       "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NodeLinkCheck/Loon.plugin",
@@ -2850,12 +2871,21 @@
       "open_url": "https://github.com/I-am-R-E/Functional-Store-Hub/tree/Master/Nicegram"
     },
     {
-      "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/PixivShow/Loon.plugin",
-      "name": "Pixiv Show",
-      "description": "高定制化Pixiv推送服务,可在BoxJS中做更详细的设置",
+      "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/LiuLiShuoYueDu/LiuLiShuoYueDu.Loon.plugin",
+      "name": "流利说·阅读",
+      "description": "解锁流利说·阅读会员、解锁阅读权限、解锁音频权限等",
       "icon": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Files/icon.png",
-      "open_url": "http://boxjs.com/#/app/Functional_Store_Hub.PixivShow",
-      "homepage": "https://github.com/I-am-R-E/Functional-Store-Hub/tree/Master/PixivShow",
+      "open_url": "https://t.me/Functional_Store_Hub",
+      "homepage": "https://github.com/I-am-R-E/Functional-Store-Hub/tree/Master/LiuLiShuoYueDu",
+      "manual": "https://t.me/Functional_Store_Hub/10"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Loon.plugin",
+      "name": "Xmind思维导图",
+      "description": "解锁Xmind思维导图订阅到2030年",
+      "icon": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Files/icon.png",
+      "open_url": "https://t.me/Functional_Store_Hub",
+      "homepage": "https://github.com/I-am-R-E/Functional-Store-Hub/tree/Master/Xmind",
       "manual": "https://t.me/Functional_Store_Hub/10"
     },
     {
@@ -2872,39 +2902,15 @@
       "name": "WPS会员",
       "description": "WPS解锁本地会员,支持大陆版以及非大陆版(2022.07.10)",
       "open_url": "https://github.com/I-am-R-E/Functional-Store-Hub/tree/Master/WPSOffice"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Xmind/Xmind.Loon.plugin",
-      "name": "Xmind思维导图",
-      "description": "解锁Xmind思维导图订阅到2030年",
-      "icon": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Files/icon.png",
-      "open_url": "https://t.me/Functional_Store_Hub",
-      "homepage": "https://github.com/I-am-R-E/Functional-Store-Hub/tree/Master/Xmind",
-      "manual": "https://t.me/Functional_Store_Hub/10"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXinWeekly/Loon.plugin",
-      "name": "财新周刊会员",
-      "description": "财新周刊会员,登陆账号体验更加(2022.07.12)",
-      "open_url": "https://github.com/I-am-R-E/Functional-Store-Hub/tree/Master/CaiXinWeekly"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/LiuLiShuoYueDu/LiuLiShuoYueDu.Loon.plugin",
-      "name": "流利说·阅读",
-      "description": "解锁流利说·阅读会员、解锁阅读权限、解锁音频权限等",
-      "icon": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/Files/icon.png",
-      "open_url": "https://t.me/Functional_Store_Hub",
-      "homepage": "https://github.com/I-am-R-E/Functional-Store-Hub/tree/Master/LiuLiShuoYueDu",
-      "manual": "https://t.me/Functional_Store_Hub/10"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/CaiXin/Loon.plugin",
-      "name": "财新会员",
-      "description": "解锁财新文章阅读与音频限制 @Functional_Store_Hub",
-      "open_url": "https://github.com/I-am-R-E/Functional-Store-Hub/tree/Master/CaiXin"
     }
   ],
   "Peng-YM-QuanX-master": [
+    {
+      "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.plugin",
+      "name": "自动策略",
+      "description": "根据当前网络自动切换模式",
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png"
+    },
     {
       "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Rewrites/GithubPrivate/github-private-repo.plugin",
       "name": "GitHub Private Access",
@@ -2913,9 +2919,9 @@
       "homepage": "https://t.me/cool_scripts/147"
     },
     {
-      "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.plugin",
-      "name": "自动策略",
-      "description": "根据当前网络自动切换模式",
+      "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/PersistentPolicy/persistent-policy.plugin",
+      "name": "Persistent Policy",
+      "description": "记忆当前网络下策略组选中状态，切换网络时自动恢复",
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png"
     },
     {
@@ -2923,34 +2929,52 @@
       "name": "运行模式",
       "description": "根据当前网络自动切换模式",
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/PersistentPolicy/persistent-policy.plugin",
-      "name": "Persistent Policy",
-      "description": "记忆当前网络下策略组选中状态，切换网络时自动恢复",
-      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png"
     }
   ],
   "zqzess-rule_for_quantumultX-master": [
     {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/Rewrite.plugin",
-      "name": "GoogleRewrite",
-      "description": "谷歌搜索重定向，将google.cn,google.h等重定向至google.com",
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/FanQieNovel.plugin",
+      "name": "番茄小说广告屏蔽",
+      "description": "屏蔽番茄小说底部和章末广告，且不影响金币获取",
       "icon": "",
       "open_url": "",
       "homepage": "https://github.com/zqzess/rule_for_quantumultX"
     },
     {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/Qsearch.plugin",
-      "name": "Safari聚合搜索",
-      "description": "默认百度引擎即可，地址栏输入:gg 充电宝 ,即可切换为谷歌搜索",
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/wnCalendar.plugin",
+      "name": "今日黄历",
+      "description": "显示今日宜忌、节日等信息",
+      "icon": "https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/synology-calendar.png",
+      "open_url": "",
+      "homepage": "https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/wnCalendar"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/BaiduAdBlock.plugin",
+      "name": "百度系app广告屏蔽",
+      "description": "屏蔽如百度输入法，百度网盘，百度地图等app广告",
       "icon": "",
       "open_url": "",
       "homepage": "https://github.com/zqzess/rule_for_quantumultX"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/AdBlock.plugin",
+      "name": "AdBlock.plugin"
     },
     {
       "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/bilibili.plugin",
       "name": "bilibili.plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/SkipProxy.plugin",
+      "name": "SkipProxy",
+      "description": "跳过部分应用的代理检测，网上国网、多看阅读、建行生活等应用,插件开启后需要重启Loon才会生效",
+      "icon": "",
+      "open_url": "",
+      "homepage": "https://github.com/zqzess/rule_for_quantumultX"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/kuwo.plugin",
+      "name": "kuwo.plugin"
     },
     {
       "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/QMusicAd.plugin",
@@ -2965,78 +2989,10 @@
       "name": "bodianMusic.plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/AdBlock.plugin",
-      "name": "AdBlock.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/BaiduAdBlock.plugin",
-      "name": "百度系app广告屏蔽",
-      "description": "屏蔽如百度输入法，百度网盘，百度地图等app广告",
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/Rewrite.plugin",
+      "name": "GoogleRewrite",
+      "description": "谷歌搜索重定向，将google.cn,google.h等重定向至google.com",
       "icon": "",
-      "open_url": "",
-      "homepage": "https://github.com/zqzess/rule_for_quantumultX"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/wnCalendar.plugin",
-      "name": "今日黄历",
-      "description": "显示今日宜忌、节日等信息",
-      "icon": "https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/synology-calendar.png",
-      "open_url": "",
-      "homepage": "https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/wnCalendar"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/FanQieNovel.plugin",
-      "name": "番茄小说广告屏蔽",
-      "description": "屏蔽番茄小说底部和章末广告，且不影响金币获取",
-      "icon": "",
-      "open_url": "",
-      "homepage": "https://github.com/zqzess/rule_for_quantumultX"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/YouTubeAd.plugin",
-      "name": "YouTubeAd.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/SkipProxy.plugin",
-      "name": "SkipProxy",
-      "description": "跳过部分应用的代理检测，网上国网、多看阅读、建行生活等应用,插件开启后需要重启Loon才会生效",
-      "icon": "",
-      "open_url": "",
-      "homepage": "https://github.com/zqzess/rule_for_quantumultX"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/DaysMatter.plugin",
-      "name": "倒数日",
-      "description": "通过panel显示节假日倒计时，节日当天早上有提醒。",
-      "icon": "https://cdn.jsdelivr.net/gh/zqzess/pichouse@master/pic/202302061207406.jpg",
-      "open_url": "",
-      "homepage": "https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/wnCalendar"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/ReFix.plugin",
-      "name": "规则修正",
-      "description": "修正一些未被匹配识别的域名走代理或直连,Proxy请指向你的代理节点",
-      "icon": "",
-      "open_url": "",
-      "homepage": "https://github.com/zqzess/rule_for_quantumultX"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/kuwo.plugin",
-      "name": "kuwo.plugin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/QzoneAdBlock.plugin",
-      "name": "qq空间广告屏蔽",
-      "description": "屏蔽qq空间广告，但是广告位仍存在",
-      "icon": "",
-      "open_url": "",
-      "homepage": "https://github.com/zqzess/rule_for_quantumultX"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/SevenCat.plugin",
-      "name": "七猫小说",
-      "description": "七猫小说广告屏蔽",
-      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/master/App_icon/120px/SevenCat.png",
       "open_url": "",
       "homepage": "https://github.com/zqzess/rule_for_quantumultX"
     },
@@ -3053,21 +3009,65 @@
       "name": "zhihu.plugin"
     },
     {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/Qsearchddg.plugin",
-      "name": "Qsearchddg.plugin"
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/DaysMatter.plugin",
+      "name": "倒数日",
+      "description": "通过panel显示节假日倒计时，节日当天早上有提醒。",
+      "icon": "https://cdn.jsdelivr.net/gh/zqzess/pichouse@master/pic/202302061207406.jpg",
+      "open_url": "",
+      "homepage": "https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/wnCalendar"
     },
     {
-      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn.plugin",
-      "name": "阿里网盘签到",
-      "description": "阿里网盘定时签到任务。详情见仓库",
-      "icon": "https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ALiYun.png",
-      "open_url": "https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/aDriveCheckIn",
-      "homepage": "https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/aDriveCheckIn"
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/YouTubeAd.plugin",
+      "name": "YouTubeAd.plugin"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/QzoneAdBlock.plugin",
+      "name": "qq空间广告屏蔽",
+      "description": "屏蔽qq空间广告，但是广告位仍存在",
+      "icon": "",
+      "open_url": "",
+      "homepage": "https://github.com/zqzess/rule_for_quantumultX"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/Qsearch.plugin",
+      "name": "Safari聚合搜索",
+      "description": "默认百度引擎即可，地址栏输入:gg 充电宝 ,即可切换为谷歌搜索",
+      "icon": "",
+      "open_url": "",
+      "homepage": "https://github.com/zqzess/rule_for_quantumultX"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/ReFix.plugin",
+      "name": "规则修正",
+      "description": "修正一些未被匹配识别的域名走代理或直连,Proxy请指向你的代理节点",
+      "icon": "",
+      "open_url": "",
+      "homepage": "https://github.com/zqzess/rule_for_quantumultX"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/SevenCat.plugin",
+      "name": "七猫小说",
+      "description": "七猫小说广告屏蔽",
+      "icon": "https://gitlab.com/lodepuly/iconlibrary/-/raw/master/App_icon/120px/SevenCat.png",
+      "open_url": "",
+      "homepage": "https://github.com/zqzess/rule_for_quantumultX"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/Qsearchddg.plugin",
+      "name": "Qsearchddg.plugin"
     },
     {
       "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn_token.plugin",
       "name": "阿里网盘签到token获取",
       "description": "阿里网盘定时签到token获取。详情见仓库",
+      "icon": "https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ALiYun.png",
+      "open_url": "https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/aDriveCheckIn",
+      "homepage": "https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/aDriveCheckIn"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn.plugin",
+      "name": "阿里网盘签到",
+      "description": "阿里网盘定时签到任务。详情见仓库",
       "icon": "https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/ALiYun.png",
       "open_url": "https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/aDriveCheckIn",
       "homepage": "https://github.com/zqzess/rule_for_quantumultX/tree/master/js/Mine/aDriveCheckIn"
@@ -3080,6 +3080,15 @@
     }
   ],
   "VirgilClyne-Cloudflare-main": [
+    {
+      "url": "https://raw.githubusercontent.com/Auraflare/1.1.1.1/main/modules/Cloudflare.1.1.1.1.beta.plugin",
+      "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP β",
+      "description": "(BETA) WARP检测面板与节点提取",
+      "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d3/c5/bb/d3c5bbed-08d4-481c-8585-f7d2e45abd5f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+      "open_url": "http://boxjs.com/#/app/Cloudflare.1dot1dot1dot1.beta",
+      "homepage": "https://github.com/VirgilClyne",
+      "manual": "https://github.com/VirgilClyne/Cloudflare/wiki/☁-1.1.1.1-by-Cloudflare-with-WARP"
+    },
     {
       "url": "https://raw.githubusercontent.com/Auraflare/1.1.1.1/main/modules/Cloudflare.1.1.1.1.plugin",
       "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP",
@@ -3097,15 +3106,6 @@
       "open_url": "http://boxjs.com/#/app/Cloudflare.DNS",
       "homepage": "https://github.com/VirgilClyne",
       "manual": "https://github.com/VirgilClyne/Cloudflare/wiki/☁-Cloudflare:-🇩-DNS"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Auraflare/1.1.1.1/main/modules/Cloudflare.1.1.1.1.beta.plugin",
-      "name": "☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP β",
-      "description": "(BETA) WARP检测面板与节点提取",
-      "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d3/c5/bb/d3c5bbed-08d4-481c-8585-f7d2e45abd5f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-      "open_url": "http://boxjs.com/#/app/Cloudflare.1dot1dot1dot1.beta",
-      "homepage": "https://github.com/VirgilClyne",
-      "manual": "https://github.com/VirgilClyne/Cloudflare/wiki/☁-1.1.1.1-by-Cloudflare-with-WARP"
     }
   ],
   "Peng-YM-Sub-Store-master": [
