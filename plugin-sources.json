@@ -8,6 +8,14 @@
     ]
   },
   {
+    "user": "luestr",
+    "repo": "ProxyResource",
+    "branch": "main",
+    "paths": [
+      "Tool/Loon/Plugin"
+    ]
+  },
+  {
     "user": "Semporia",
     "repo": "TikTok-Unlock",
     "branch": "master",
