@@ -1,4 +1,28 @@
 {
+  "chavyleung-scripts-master": {
+    "user": "chavyleung",
+    "repo": "scripts",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
+    "owner_url": "https://github.com/chavyleung",
+    "repo_description": "BoxJs",
+    "repo_url": "https://github.com/chavyleung/scripts",
+    "updated_at": "2026-10-25T15:30:57Z",
+    "stargazers_count": 5529,
+    "forks_count": 1133
+  },
+  "Peng-YM-QuanX-master": {
+    "user": "Peng-YM",
+    "repo": "QuanX",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
+    "owner_url": "https://github.com/Peng-YM",
+    "repo_description": "Scripts for QX, Loon, Surge, and ShadowRocket!",
+    "repo_url": "https://github.com/Peng-YM/QuanX",
+    "updated_at": "2026-10-24T06:54:10Z",
+    "stargazers_count": 1701,
+    "forks_count": 168
+  },
   "VirgilClyne-GetSomeFries-main": {
     "user": "VirgilClyne",
     "repo": "GetSomeFries",
@@ -11,17 +35,101 @@
     "stargazers_count": 1531,
     "forks_count": 114
   },
-  "luestr-ProxyResource-main": {
-    "user": "luestr",
-    "repo": "ProxyResource",
+  "chengkongyiban-Loon-main": {
+    "user": "chengkongyiban",
+    "repo": "Loon",
     "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/152216177?v=4",
-    "owner_url": "https://github.com/luestr",
-    "repo_description": "可莉的Loon资源库 | 插件 | 脚本 | 规则",
-    "repo_url": "https://github.com/luestr/ProxyResource",
-    "updated_at": "2026-10-24T18:14:57Z",
-    "stargazers_count": 5060,
-    "forks_count": 187
+    "avatar_url": "https://avatars.githubusercontent.com/u/48396581?v=4",
+    "owner_url": "https://github.com/chengkongyiban",
+    "repo_description": null,
+    "repo_url": "https://github.com/chengkongyiban/Loon",
+    "updated_at": "2026-02-21T03:53:37Z",
+    "stargazers_count": 34,
+    "forks_count": 1
+  },
+  "deezertidal-private-master": {
+    "user": "deezertidal",
+    "repo": "private",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/539868?v=4",
+    "owner_url": "https://github.com/deezertidal",
+    "repo_description": "Loon配置 脚本 插件 plugin 规则 分流 破解 解锁",
+    "repo_url": "https://github.com/deezertidal/private",
+    "updated_at": "2026-10-26T00:24:39Z",
+    "stargazers_count": 915,
+    "forks_count": 73
+  },
+  "blackmatrix7-ios_rule_script-master": {
+    "user": "blackmatrix7",
+    "repo": "ios_rule_script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/27717518?v=4",
+    "owner_url": "https://github.com/blackmatrix7",
+    "repo_description": "分流规则、重写写规则及脚本。",
+    "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
+    "updated_at": "2026-10-26T01:07:26Z",
+    "stargazers_count": 28397,
+    "forks_count": 4117
+  },
+  "ajune0527-vpn_tool-master": {
+    "user": "ajune0527",
+    "repo": "vpn_tool",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/54520002?v=4",
+    "owner_url": "https://github.com/ajune0527",
+    "repo_description": null,
+    "repo_url": "https://github.com/ajune0527/vpn_tool",
+    "updated_at": "2026-06-23T07:12:49Z",
+    "stargazers_count": 3,
+    "forks_count": 3
+  },
+  "Tartarus2014-Loon-Script-master": {
+    "user": "Tartarus2014",
+    "repo": "Loon-Script",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
+    "owner_url": "https://github.com/Tartarus2014",
+    "repo_description": "Loon脚本收集",
+    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
+    "updated_at": "2026-10-25T18:36:36Z",
+    "stargazers_count": 1659,
+    "forks_count": 244
+  },
+  "Guding88-Script-main": {
+    "user": "Guding88",
+    "repo": "Script",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/132737252?v=4",
+    "owner_url": "https://github.com/Guding88",
+    "repo_description": null,
+    "repo_url": "https://github.com/Guding88/Script",
+    "updated_at": "2026-10-05T10:46:49Z",
+    "stargazers_count": 265,
+    "forks_count": 40
+  },
+  "app2smile-rules-master": {
+    "user": "app2smile",
+    "repo": "rules",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
+    "owner_url": "https://github.com/app2smile",
+    "repo_description": "iOS App去广告",
+    "repo_url": "https://github.com/app2smile/rules",
+    "updated_at": "2026-10-26T01:00:43Z",
+    "stargazers_count": 4150,
+    "forks_count": 252
+  },
+  "I-am-R-E-Functional-Store-Hub-Master": {
+    "user": "I-am-R-E",
+    "repo": "Functional-Store-Hub",
+    "branch": "Master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/97787451?v=4",
+    "owner_url": "https://github.com/I-am-R-E",
+    "repo_description": "Functional scripts, agent node, configurations for Surge, QuantumultX, Loon, Stash ,Egern , ShadowRocket and HTTPCatcher.",
+    "repo_url": "https://github.com/I-am-R-E/Functional-Store-Hub",
+    "updated_at": "2026-10-17T10:28:24Z",
+    "stargazers_count": 1020,
+    "forks_count": 65
   },
   "DualSubs-YouTube-main": {
     "user": "DualSubs",
@@ -35,6 +143,18 @@
     "stargazers_count": 527,
     "forks_count": 21
   },
+  "GeQ1an-Rules-master": {
+    "user": "GeQ1an",
+    "repo": "Rules",
+    "branch": "master",
+    "avatar_url": "https://avatars.githubusercontent.com/u/38187467?v=4",
+    "owner_url": "https://github.com/GeQ1an",
+    "repo_description": "Stick Rules -- Quantumult X / Loon / Clash Rules \\ Quantumult back to CN Rules",
+    "repo_url": "https://github.com/GeQ1an/Rules",
+    "updated_at": "2026-10-21T09:57:32Z",
+    "stargazers_count": 1002,
+    "forks_count": 210
+  },
   "NobyDa-Script-master": {
     "user": "NobyDa",
     "repo": "Script",
@@ -43,8 +163,8 @@
     "owner_url": "https://github.com/NobyDa",
     "repo_description": "This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)",
     "repo_url": "https://github.com/NobyDa/Script",
-    "updated_at": "2026-10-24T18:05:59Z",
-    "stargazers_count": 8444,
+    "updated_at": "2026-10-25T02:19:14Z",
+    "stargazers_count": 8443,
     "forks_count": 2987
   },
   "zqzess-rule_for_quantumultX-master": {
@@ -59,90 +179,6 @@
     "stargazers_count": 2060,
     "forks_count": 135
   },
-  "blackmatrix7-ios_rule_script-master": {
-    "user": "blackmatrix7",
-    "repo": "ios_rule_script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/27717518?v=4",
-    "owner_url": "https://github.com/blackmatrix7",
-    "repo_description": "分流规则、重写写规则及脚本。",
-    "repo_url": "https://github.com/blackmatrix7/ios_rule_script",
-    "updated_at": "2026-10-25T01:55:30Z",
-    "stargazers_count": 28392,
-    "forks_count": 4114
-  },
-  "app2smile-rules-master": {
-    "user": "app2smile",
-    "repo": "rules",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/34903735?v=4",
-    "owner_url": "https://github.com/app2smile",
-    "repo_description": "iOS App去广告",
-    "repo_url": "https://github.com/app2smile/rules",
-    "updated_at": "2026-10-24T08:26:28Z",
-    "stargazers_count": 4149,
-    "forks_count": 252
-  },
-  "ajune0527-vpn_tool-master": {
-    "user": "ajune0527",
-    "repo": "vpn_tool",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/54520002?v=4",
-    "owner_url": "https://github.com/ajune0527",
-    "repo_description": null,
-    "repo_url": "https://github.com/ajune0527/vpn_tool",
-    "updated_at": "2026-06-23T07:12:49Z",
-    "stargazers_count": 3,
-    "forks_count": 3
-  },
-  "Peng-YM-QuanX-master": {
-    "user": "Peng-YM",
-    "repo": "QuanX",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/21050064?v=4",
-    "owner_url": "https://github.com/Peng-YM",
-    "repo_description": "Scripts for QX, Loon, Surge, and ShadowRocket!",
-    "repo_url": "https://github.com/Peng-YM/QuanX",
-    "updated_at": "2026-10-24T06:54:10Z",
-    "stargazers_count": 1701,
-    "forks_count": 168
-  },
-  "Guding88-Script-main": {
-    "user": "Guding88",
-    "repo": "Script",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/132737252?v=4",
-    "owner_url": "https://github.com/Guding88",
-    "repo_description": null,
-    "repo_url": "https://github.com/Guding88/Script",
-    "updated_at": "2026-10-05T10:46:49Z",
-    "stargazers_count": 265,
-    "forks_count": 40
-  },
-  "I-am-R-E-Functional-Store-Hub-Master": {
-    "user": "I-am-R-E",
-    "repo": "Functional-Store-Hub",
-    "branch": "Master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/97787451?v=4",
-    "owner_url": "https://github.com/I-am-R-E",
-    "repo_description": "Functional scripts, agent node, configurations for Surge, QuantumultX, Loon, Stash ,Egern , ShadowRocket and HTTPCatcher.",
-    "repo_url": "https://github.com/I-am-R-E/Functional-Store-Hub",
-    "updated_at": "2026-10-17T10:28:24Z",
-    "stargazers_count": 1020,
-    "forks_count": 65
-  },
-  "deezertidal-private-master": {
-    "user": "deezertidal",
-    "repo": "private",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/539868?v=4",
-    "owner_url": "https://github.com/deezertidal",
-    "repo_description": "Loon配置 脚本 插件 plugin 规则 分流 破解 解锁",
-    "repo_url": "https://github.com/deezertidal/private",
-    "updated_at": "2026-10-25T00:24:50Z",
-    "stargazers_count": 915,
-    "forks_count": 73
-  },
   "Semporia-TikTok-Unlock-master": {
     "user": "Semporia",
     "repo": "TikTok-Unlock",
@@ -151,57 +187,21 @@
     "owner_url": "https://github.com/Semporia",
     "repo_description": "TikTok 無需拔卡解鎖最新支援  iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！",
     "repo_url": "https://github.com/Semporia/TikTok-Unlock",
-    "updated_at": "2026-10-25T02:08:22Z",
-    "stargazers_count": 12183,
+    "updated_at": "2026-10-26T02:01:48Z",
+    "stargazers_count": 12182,
     "forks_count": 837
   },
-  "GeQ1an-Rules-master": {
-    "user": "GeQ1an",
-    "repo": "Rules",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/38187467?v=4",
-    "owner_url": "https://github.com/GeQ1an",
-    "repo_description": "Stick Rules -- Quantumult X / Loon / Clash Rules \\ Quantumult back to CN Rules",
-    "repo_url": "https://github.com/GeQ1an/Rules",
-    "updated_at": "2026-10-21T09:57:32Z",
-    "stargazers_count": 1002,
-    "forks_count": 210
-  },
-  "chavyleung-scripts-master": {
-    "user": "chavyleung",
-    "repo": "scripts",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/29748519?v=4",
-    "owner_url": "https://github.com/chavyleung",
-    "repo_description": "BoxJs",
-    "repo_url": "https://github.com/chavyleung/scripts",
-    "updated_at": "2026-10-24T18:06:46Z",
-    "stargazers_count": 5529,
-    "forks_count": 1133
-  },
-  "chengkongyiban-Loon-main": {
-    "user": "chengkongyiban",
-    "repo": "Loon",
+  "luestr-ProxyResource-main": {
+    "user": "luestr",
+    "repo": "ProxyResource",
     "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/48396581?v=4",
-    "owner_url": "https://github.com/chengkongyiban",
-    "repo_description": null,
-    "repo_url": "https://github.com/chengkongyiban/Loon",
-    "updated_at": "2026-02-21T03:53:37Z",
-    "stargazers_count": 34,
-    "forks_count": 1
-  },
-  "Tartarus2014-Loon-Script-master": {
-    "user": "Tartarus2014",
-    "repo": "Loon-Script",
-    "branch": "master",
-    "avatar_url": "https://avatars.githubusercontent.com/u/39802246?v=4",
-    "owner_url": "https://github.com/Tartarus2014",
-    "repo_description": "Loon脚本收集",
-    "repo_url": "https://github.com/Tartarus2014/Loon-Script",
-    "updated_at": "2026-10-22T08:35:19Z",
-    "stargazers_count": 1658,
-    "forks_count": 244
+    "avatar_url": "https://avatars.githubusercontent.com/u/152216177?v=4",
+    "owner_url": "https://github.com/luestr",
+    "repo_description": "可莉的Loon资源库 | 插件 | 脚本 | 规则",
+    "repo_url": "https://github.com/luestr/ProxyResource",
+    "updated_at": "2026-10-25T18:43:53Z",
+    "stargazers_count": 5065,
+    "forks_count": 187
   },
   "VirgilClyne-iRingo-main": {
     "user": "VirgilClyne",
@@ -211,21 +211,21 @@
     "owner_url": "https://github.com/NSRingo",
     "repo_description": "解锁完整的 Apple功能和集成服务",
     "repo_url": "https://github.com/NSRingo/iRingo",
-    "updated_at": "2026-10-25T02:08:40Z",
-    "stargazers_count": 10635,
+    "updated_at": "2026-10-26T02:05:35Z",
+    "stargazers_count": 10634,
     "forks_count": 370
   },
-  "VirgilClyne-Cloudflare-main": {
-    "user": "VirgilClyne",
-    "repo": "Cloudflare",
+  "BiliUniverse-ADBlock-main": {
+    "user": "BiliUniverse",
+    "repo": "ADBlock",
     "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/190900859?v=4",
-    "owner_url": "https://github.com/Auraflare",
-    "repo_description": "Cloudflare相关插件/模块",
-    "repo_url": "https://github.com/Auraflare/1.1.1.1",
-    "updated_at": "2026-10-04T00:37:12Z",
-    "stargazers_count": 697,
-    "forks_count": 44
+    "avatar_url": "https://avatars.githubusercontent.com/u/129515498?v=4",
+    "owner_url": "https://github.com/Biliverse",
+    "repo_description": "自定义去除 app 广告",
+    "repo_url": "https://github.com/Biliverse/ADBlock",
+    "updated_at": "2026-10-21T13:26:32Z",
+    "stargazers_count": 139,
+    "forks_count": 26
   },
   "BiliUniverse-Enhanced-main": {
     "user": "BiliUniverse",
@@ -239,6 +239,18 @@
     "stargazers_count": 73,
     "forks_count": 11
   },
+  "VirgilClyne-Cloudflare-main": {
+    "user": "VirgilClyne",
+    "repo": "Cloudflare",
+    "branch": "main",
+    "avatar_url": "https://avatars.githubusercontent.com/u/190900859?v=4",
+    "owner_url": "https://github.com/Auraflare",
+    "repo_description": "Cloudflare相关插件/模块",
+    "repo_url": "https://github.com/Auraflare/1.1.1.1",
+    "updated_at": "2026-10-25T14:32:11Z",
+    "stargazers_count": 696,
+    "forks_count": 44
+  },
   "Peng-YM-Sub-Store-master": {
     "user": "Peng-YM",
     "repo": "Sub-Store",
@@ -247,8 +259,8 @@
     "owner_url": "https://github.com/sub-store-org",
     "repo_description": "Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!",
     "repo_url": "https://github.com/sub-store-org/Sub-Store",
-    "updated_at": "2026-10-25T02:06:02Z",
-    "stargazers_count": 10748,
+    "updated_at": "2026-10-25T14:17:25Z",
+    "stargazers_count": 10755,
     "forks_count": 1422
   },
   "BiliUniverse-Global-main": {
@@ -262,17 +274,5 @@
     "updated_at": "2026-10-21T06:56:56Z",
     "stargazers_count": 39,
     "forks_count": 6
-  },
-  "BiliUniverse-ADBlock-main": {
-    "user": "BiliUniverse",
-    "repo": "ADBlock",
-    "branch": "main",
-    "avatar_url": "https://avatars.githubusercontent.com/u/129515498?v=4",
-    "owner_url": "https://github.com/Biliverse",
-    "repo_description": "自定义去除 app 广告",
-    "repo_url": "https://github.com/Biliverse/ADBlock",
-    "updated_at": "2026-10-21T13:26:32Z",
-    "stargazers_count": 139,
-    "forks_count": 26
   }
 }
